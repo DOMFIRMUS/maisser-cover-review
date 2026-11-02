@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+textos/
+_tmp_*
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,185 @@
+[
+ {
+  "grupo": "Suranaree_PET_bottles",
+  "relatos_independentes": [],
+  "adicionar": [
+   {
+    "study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "row": 5,
+    "reason": "Pond 6: LAF-filled PET bottles glued into rafts, 50% cover. Same site (14.90N 102.01E, 183 m), same 2.84 m2 PE ponds, same control pond 1 and same 12-week record as Raksaksri 2023. This cover pattern does not appear in the principal report, which describes only five ponds (Table II)."
+   },
+   {
+    "study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "row": 6,
+    "reason": "Pond 7: empty transparent PET bottles, free-floating, 50% cover. Same experiment, and the principal report does not include this cover material (opacity comparison, Fig. 5 of Benjaoran)."
+   },
+   {
+    "study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "row": 7,
+    "reason": "Pond 8: PET bottles filled with assorted plastic bags, free-floating, 50% cover. Same experiment, and the principal report does not include this cover material."
+   }
+  ],
+  "conflitos": [
+   {
+    "condition": "LAF-filled PET bottles, free-floating, 25% cover (pond 2)",
+    "principal_row": 1,
+    "other_study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "other_row": 1,
+    "field": "S",
+    "keep": "principal",
+    "why": "Same data: the plotted vectors are identical (Raksaksri Fig. 5 = Benjaoran Fig. 6). Raksaksri gives S = 0.218 as a numerical ESE in its text. Benjaoran gives no numbers, and its 0.191 comes from 1 - mean(Ec)/mean(Eo) on the figure. Keep the reported value and record the figure-derived 0.191 in notes. E_o and E_c agree (4.49/3.63)."
+   },
+   {
+    "condition": "LAF-filled PET bottles, free-floating, 50% cover (pond 3)",
+    "principal_row": 2,
+    "other_study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "other_row": 2,
+    "field": "S",
+    "keep": "principal",
+    "why": "The principal report gives ESE 0.327 in its text. Benjaoran's 0.305 is computed from the same plotted data. E values are identical."
+   },
+   {
+    "condition": "LAF-filled PET bottles, free-floating, 75% cover (pond 4)",
+    "principal_row": 3,
+    "other_study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "other_row": 3,
+    "field": "S",
+    "keep": "principal",
+    "why": "The principal report gives ESE 0.592 in its text. Benjaoran's 0.577 is computed from the same figure. E values are identical."
+   },
+   {
+    "condition": "LAF-filled PET bottles, free-floating, nominal 100% cover (pond 5, phi 0.912)",
+    "principal_row": 4,
+    "other_study": "Benjaoran2023_10-26480-wcm-02-2023-114-121",
+    "other_row": 4,
+    "field": "S",
+    "keep": "principal",
+    "why": "The principal report gives ESE 0.633 in its text. Benjaoran's 0.615 is computed from the same figure. E values are identical."
+   }
+  ],
+  "notas": "Both reports describe one experiment by the same authors at Suranaree University of Technology. The site coordinates (14.899851N 102.009102E, 183 m) are identical, as are the PE ponds (1.90 m diameter, 2.84 m2, 0.50 m depth), the pond 1 control, the Class A pan, the 15-day preliminary test and the 12-week weekly-averaged record. The plotted vectors of the coverage series are identical in both PDFs.\n\nRaksaksri 2023 (IJESD) reports the coverage subset, ponds 1-5. Benjaoran 2023 (WCM) reports all 8 ponds. Benjaoran rows 1-4 duplicate the principal rows 1-4, so add only Benjaoran ponds 6-8 (rows 5-7). Count the experiment once.\n\nCaveat for the added rows: their S values (0.338, 0.177, 0.217) are figure-derived, 1 - mean(Ec)/mean(Eo). The principal's reported ESE values run about 2-3 points above the figure-derived values for the same ponds. Within-experiment comparisons should therefore use the figure-derived series consistently. For example, compare raft 0.338 with free-floating 50% 0.305, not with 0.327. Flag S_source = computed_from_E on these rows.\n\nPond 6 (rafts) has cover_class 'rafts' and element size about 0.52 m. The phi caveat also applies: the % may refer to full packing (91.2%), so phi could be 0.456 for the 50% ponds."
+ },
+ {
+  "grupo": "Cartagena_pans_shade_materials",
+  "relatos_independentes": [],
+  "adicionar": [
+   {
+    "study": "JM2009_10-31428-10317-792",
+    "row": 3,
+    "reason": "Single white polyethylene raffia (WPE), S = 0.547. Same UPCT Cartagena station, same pair of Class A pans (shaded vs reference) and the same 2003 shade-material series as the principal. The principal article tests only black PE, so this cover is a distinct condition."
+   },
+   {
+    "study": "JM2009_10-31428-10317-792",
+    "row": 4,
+    "reason": "Double white polyethylene raffia (2WPE), S = 0.685. Same pans, setup and 2003 series. This cover is not in the principal article."
+   },
+   {
+    "study": "JM2009_10-31428-10317-792",
+    "row": 5,
+    "reason": "Single green polyethylene raffia (GPE), S = 0.762. Same pans, setup and 2003 series. This cover is not in the principal article."
+   },
+   {
+    "study": "JM2009_10-31428-10317-792",
+    "row": 6,
+    "reason": "Aluminised thermal screen (ALU), S = 0.515. Same pans, setup and 2003 series. This cover is not in the principal article."
+   },
+   {
+    "study": "JM2009_10-31428-10317-792",
+    "row": 7,
+    "reason": "Single blue polyethylene raffia (BLPE), S = 0.776. Same pans, setup and 2003 series. This cover is not in the principal article."
+   }
+  ],
+  "conflitos": [
+   {
+    "condition": "Single black polyethylene shade cloth (1-BPE / BPE), suspended over Class A pan, phi = 1, 2003",
+    "principal_row": 1,
+    "other_study": "JM2009_10-31428-10317-792",
+    "other_row": 1,
+    "field": "S",
+    "keep": "principal",
+    "why": "The peer-reviewed 2006 SJAR article gives fR = 0.751 (SD 0.058) and repeats 75.1% in the discussion. The thesis Table 8.3 gives 73.1% with the same SD (5.8%). Matching SDs point to the same daily dataset, so the 2-point gap is most likely a typo or a slightly different day selection. The thesis copy is a scanned PDF whose text layer is empty, so 73.1% could not be re-checked. Keep 0.751 and drop the thesis row as a duplicate."
+   },
+   {
+    "condition": "Single and double black polyethylene shade over Class A pan (applies to all thesis rows)",
+    "principal_row": 1,
+    "other_study": "JM2009_10-31428-10317-792",
+    "other_row": 1,
+    "field": "screen height above water (mode/geometry metadata)",
+    "keep": "principal",
+    "why": "The article says the frame was 0.30 m above the water surface (3 m wide). The thesis extraction gives 0.5 m above the pan, which may be measured from a different reference (pan rim or ground). phi = 1 either way, so S is unaffected. For the BPE rows, record 0.30 m from the article. For the added thesis-only materials, keep the thesis figure and flag the discrepancy."
+   }
+  ],
+  "notas": "I checked the methods before deciding the reports are linked correctly. The SJAR article (Alvarez2006, principal) used two Class A pans at the UPCT Experimental Station, Cartagena (37°35'N, 0°59'W), with an insulated, balance-weighed pan and an always-open reference pan. Runs were 10 days per configuration in May-June 2003, with single and double black PE (1-BPE, 2-BPE). The thesis (JM2009) chapter 8 used the same station and the same shaded/reference Class A pan pair, with experiment dates in May 2003. It extends the same series to seven shade materials. The thesis is therefore not independent.\n\nThe thesis 2BPE row (row 2, S = 0.835, SD 2.3%) duplicates principal row 2 (0.835, SD 0.023) exactly, so it is not added. The thesis BPE row (row 1) is the same condition as principal row 1, with a value conflict (0.731 vs 0.751): keep 0.751.\n\nThe five other materials (rows 3-7: WPE, 2WPE, GPE, ALU, BLPE) are added as distinct conditions of the same experiment. Their run length and exact dates are not recoverable: the local text file for JM2009 is a scanned PDF with no text layer (only 'reproduced with permission' lines), so period_days stays null. Their water area is 1.14 m2 vs 1.15 m2 in the principal; both come from the standard Class A diameter, so harmonise to 1.15 m2.\n\nThese seven materials were probably also published as Martinez-Alvarez et al. 2006, Agric. Water Manage. 84, 229-239 (efficiency of shading materials). That paper is not in textos_txt. If it enters the corpus it must join this group, and its Table values should replace the thesis values as the peer-reviewed source. The Alvarez2010 SJAR full-scale reservoir study (group Cartagena_reservoir_shade_cloth) is a different experiment and correctly sits outside this group."
+ },
+ {
+  "grupo": "Caruaru_UFPE_tanks",
+  "relatos_independentes": [],
+  "adicionar": [
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 1,
+    "reason": "Phase 1 overall (22 Jan 2021 - 30 Dec 2022, 61 weekly readings): green PET bottles in the same UFPE/CAA boxes. Melo states the Phase 1 boxes are a continuation of Nascimento's (2021) installation (pp.47, 51, 56). This period does not overlap the article's campaigns (Jan 2020 - 22 Jan 2021), so it is a new period of the same experiment."
+   },
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 2,
+    "reason": "Phase 1 overall 2021-2022, clear PET bottles, same boxes. Continuation period not present in the principal report."
+   },
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 3,
+    "reason": "Phase 1 overall 2021-2022, suspended tetrapak sheet, same boxes. Continuation period not present in the principal report."
+   },
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 4,
+    "reason": "Phase 1 overall 2021-2022, black 50% net (TPG), same boxes. Continuation period not present in the principal report."
+   },
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 5,
+    "reason": "Phase 1 overall 2021-2022, black 80% net (TPP), same boxes. Continuation period not present in the principal report."
+   },
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 6,
+    "reason": "Phase 1 overall 2021-2022, green mosquito mesh (TV), same boxes. Continuation period not present in the principal report."
+   },
+   {
+    "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+    "row": 7,
+    "reason": "Phase 1 overall 2021-2022, white mosquito mesh (TB), same boxes. Continuation period not present in the principal report."
+   }
+  ],
+  "conflitos": [
+   {
+    "condition": "Campaign/Stage 2 - suspended Tetrapak sheet, total evaporation",
+    "field": "phi",
+    "principal_row": 15,
+    "other_study": "do2021_evapora-o-em-pequenos-reservat-rios-com-",
+    "other_row": 12,
+    "keep": "principal",
+    "why": "Both reports describe the same non-porous suspended sheet meant to block all sunlight, and neither gives a number. The article row infers phi = 1 (phi_source computed); the dissertation leaves it null. Keep phi = 1 and flag it as inferred. The same applies to principal row 22 (the dry-interval row)."
+   },
+   {
+    "condition": "Campaign/Stage 1 - green PET bottles 72.8%, total",
+    "field": "element_size_m",
+    "principal_row": 4,
+    "other_study": "do2021_evapora-o-em-pequenos-reservat-rios-com-",
+    "other_row": 1,
+    "keep": "other",
+    "why": "S, E and phi are identical. The dissertation is more detailed: it gives the bottle projection (about 15.5 x 4.7 cm, 24 bottles, eq. 6), so element_size 0.047 m should fill the principal's null. The same applies to principal row 16 against dissertation row 6."
+   },
+   {
+    "condition": "Campaign/Stage 1 - clear PET bottles 74.4%, total",
+    "field": "element_size_m",
+    "principal_row": 5,
+    "other_study": "do2021_evapora-o-em-pequenos-reservat-rios-com-",
+    "other_row": 2,
+    "keep": "other",
+    "why": "S, E and phi are identical. The dissertation gives the bottle projection (about 17 x 5.3 cm, 20 bottles, eq. 7), so element_size 0.053 m should fill the principal's null. The same applies to principal row 17 against dissertation row 7."
+   }
+  ],
+  "notas": "I checked the full texts. Nascimento 2021 (do2021) is the dissertation behind the RBGF 2023 article. Its 12 rows (Stage 1 rows 1-5 and Stage 2 rows 6-12) repeat principal rows 4, 5, 1, 2, 3, 16, 17, 11, 12, 13, 14 and 15 with identical E_o, E_c and S, so they are duplicates. Its dry-day means (Tables 3 and 5) appear only in its notes, and they match principal rows 6-10 and 18-24.\n\nMelo 2023 (de2023) is not independent. Its Phase 1 (pp.47, 51, 56) uses the same 8 boxes at UFPE/CAA as a stated continuation of Nascimento's experiment, with new data from 22 Jan 2021 to 30 Dec 2022. That period does not overlap the article's campaigns (Jan 2020 - 22 Jan 2021), so its overall rows 1-7 are added as a third period of the same experiment.\n\nMelo Phase 2 (rows 8-10) is a DIFFERENT experiment and is not added to this group. It used 4 new buried 500 L polyethylene tanks at the IPA Caruaru site (a different site), from 17 Mar to 22 Jun 2023, with different covers (clear PET with 125 mL of water, TPG net, tetrapak). It should be split out as a separate study, e.g. 'Melo 2023 - IPA 500 L tanks'. It could not go under relatos_independentes because the same report also holds Phase 1.\n\nMelo's seasonal rows 11-24 (PET bottles only, Tables 9-12, 53, 64, 75) are sub-periods of the Phase 1 overall period. Adding them alongside rows 1-2 would double count the same boxes and period. Use them only as an alternative seasonal resolution, never pooled with rows 1-2.\n\nHarmonisation flags for the added Melo rows:\n(i) Melo gives the boxes as 0.37 x 0.56 x 0.13 m (0.2072 m2); the article and dissertation give 0.37 x 0.60 x 0.14 m (0.222 m2). These are the same physical boxes, so harmonise the area (S is unaffected).\n(ii) Melo swaps the bottle volumes (green 250 mL, clear 200 mL). The phi values 0.728 and 0.744 are carried over from Nascimento and the bottles had aged and deformed by 2021-2022, so treat phi as nominal.\n(iii) Melo row 5 (80% net): the reported 14.84% against the recomputed 14.80% is a minor inconsistency.\n(iv) The dissertation's p.66 says 70% cover for the smaller-mesh black net, while its methods and the article say 80%. Keep 0.8 but flag it as uncertain (0.7-0.8).\n\nIn the principal report the total rows (1-5, 11-17) and the dry-interval rows (6-10, 18-24) are alternative analyses of the same condition. Count one per condition."
+ }
+]

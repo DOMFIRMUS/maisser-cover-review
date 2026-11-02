@@ -1,0 +1,398 @@
+{
+ "search": {
+  "unique_records": 1752,
+  "queries": {
+   "OpenAlex": 129,
+   "Crossref": 9,
+   "Scopus": 9
+  },
+  "screened_title": 1324,
+  "screened_abstract": 485,
+  "awaiting_classification": 79,
+  "assumed_factor": 127,
+  "insufficient": 34,
+  "duplicates_found": 16
+ },
+ "full_text": {
+  "sought": 248,
+  "retrieved": 85,
+  "assessed": 85,
+  "decisions": {
+   "insufficient": 14,
+   "include": 42,
+   "context_only": 12,
+   "include_model": 8,
+   "duplicate_report": 4,
+   "assumed": 3,
+   "exclude": 2
+  }
+ },
+ "synthesis": {
+  "conditions": 326,
+  "studies": 47,
+  "by_scale": {
+   "lab": {
+    "conditions": 245,
+    "studies": 36
+   },
+   "model": {
+    "conditions": 57,
+    "studies": 10
+   },
+   "field": {
+    "conditions": 24,
+    "studies": 4
+   }
+  },
+  "measured_conditions": 269,
+  "measured_studies": 40,
+  "measured_median_S_over_phi": 0.74,
+  "measured_share_below_1": 0.88,
+  "by_cover_group": {
+   "Floating elements": {
+    "conditions": 129,
+    "studies": 23,
+    "median_S_over_phi": 0.75
+   },
+   "Suspended shade cloth": {
+    "conditions": 45,
+    "studies": 7,
+    "median_S_over_phi": 0.51
+   },
+   "PV panels (floating or above)": {
+    "conditions": 3,
+    "studies": 3,
+    "median_S_over_phi": 0.95
+   },
+   "Continuous or perforated sheets": {
+    "conditions": 54,
+    "studies": 8,
+    "median_S_over_phi": 0.91
+   },
+   "Vegetation and other": {
+    "conditions": 26,
+    "studies": 9,
+    "median_S_over_phi": 0.49
+   },
+   "Wind barriers (lattices)": {
+    "conditions": 12,
+    "studies": 1,
+    "median_S_over_phi": 6.12
+   }
+  }
+ },
+ "meta_regression": [
+  {
+   "model": "M1",
+   "term": "Intercept",
+   "estimate": 0.924,
+   "ci_low": 0.73,
+   "ci_high": 1.118,
+   "p": 0.0
+  },
+  {
+   "model": "M1",
+   "term": "C(cover, Treatment('Floating elements'))[T.Continuous or perforated sheets]",
+   "estimate": 0.048,
+   "ci_low": -0.136,
+   "ci_high": 0.232,
+   "p": 0.609
+  },
+  {
+   "model": "M1",
+   "term": "C(cover, Treatment('Floating elements'))[T.PV panels (floating or above)]",
+   "estimate": 0.283,
+   "ci_low": -0.134,
+   "ci_high": 0.7,
+   "p": 0.183
+  },
+  {
+   "model": "M1",
+   "term": "C(cover, Treatment('Floating elements'))[T.Suspended shade cloth]",
+   "estimate": -0.209,
+   "ci_low": -0.39,
+   "ci_high": -0.029,
+   "p": 0.023
+  },
+  {
+   "model": "M1",
+   "term": "phi",
+   "estimate": -0.206,
+   "ci_low": -0.418,
+   "ci_high": 0.007,
+   "p": 0.058
+  },
+  {
+   "model": "M1",
+   "term": "field",
+   "estimate": 0.064,
+   "ci_low": -0.252,
+   "ci_high": 0.38,
+   "p": 0.692
+  },
+  {
+   "model": "M1",
+   "term": "study variance",
+   "estimate": 0.063,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M1",
+   "term": "residual variance",
+   "estimate": 0.061,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "Intercept",
+   "estimate": 0.705,
+   "ci_low": 0.564,
+   "ci_high": 0.845,
+   "p": 0.0
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "C(cover, Treatment('Floating elements'))[T.Continuous or perforated sheets]",
+   "estimate": 0.034,
+   "ci_low": -0.09,
+   "ci_high": 0.157,
+   "p": 0.593
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "C(cover, Treatment('Floating elements'))[T.PV panels (floating or above)]",
+   "estimate": 0.003,
+   "ci_low": -0.365,
+   "ci_high": 0.371,
+   "p": 0.987
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "C(cover, Treatment('Floating elements'))[T.Suspended shade cloth]",
+   "estimate": -0.219,
+   "ci_low": -0.34,
+   "ci_high": -0.098,
+   "p": 0.0
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "phi",
+   "estimate": 0.05,
+   "ci_low": -0.098,
+   "ci_high": 0.199,
+   "p": 0.505
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "field",
+   "estimate": 0.083,
+   "ci_low": -0.163,
+   "ci_high": 0.329,
+   "p": 0.506
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "study variance",
+   "estimate": 0.044,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M1, phi >= 0.2",
+   "term": "residual variance",
+   "estimate": 0.022,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M2",
+   "term": "Intercept",
+   "estimate": 1.244,
+   "ci_low": 0.739,
+   "ci_high": 1.749,
+   "p": 0.0
+  },
+  {
+   "model": "M2",
+   "term": "C(cover, Treatment('Floating elements'))[T.Continuous or perforated sheets]",
+   "estimate": 0.072,
+   "ci_low": -0.287,
+   "ci_high": 0.432,
+   "p": 0.694
+  },
+  {
+   "model": "M2",
+   "term": "C(cover, Treatment('Floating elements'))[T.PV panels (floating or above)]",
+   "estimate": 0.001,
+   "ci_low": -0.595,
+   "ci_high": 0.597,
+   "p": 0.997
+  },
+  {
+   "model": "M2",
+   "term": "phi",
+   "estimate": -0.479,
+   "ci_low": -0.876,
+   "ci_high": -0.081,
+   "p": 0.018
+  },
+  {
+   "model": "M2",
+   "term": "field",
+   "estimate": -0.006,
+   "ci_low": -0.378,
+   "ci_high": 0.366,
+   "p": 0.973
+  },
+  {
+   "model": "M2",
+   "term": "log_elem",
+   "estimate": -0.037,
+   "ci_low": -0.251,
+   "ci_high": 0.178,
+   "p": 0.738
+  },
+  {
+   "model": "M2",
+   "term": "study variance",
+   "estimate": 0.052,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M2",
+   "term": "residual variance",
+   "estimate": 0.081,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M3",
+   "term": "Intercept",
+   "estimate": -0.023,
+   "ci_low": -0.232,
+   "ci_high": 0.186,
+   "p": 0.831
+  },
+  {
+   "model": "M3",
+   "term": "C(cover, Treatment('Floating elements'))[T.Continuous or perforated sheets]",
+   "estimate": 0.006,
+   "ci_low": -0.114,
+   "ci_high": 0.126,
+   "p": 0.923
+  },
+  {
+   "model": "M3",
+   "term": "C(cover, Treatment('Floating elements'))[T.PV panels (floating or above)]",
+   "estimate": 0.133,
+   "ci_low": -0.075,
+   "ci_high": 0.341,
+   "p": 0.209
+  },
+  {
+   "model": "M3",
+   "term": "phi",
+   "estimate": 0.649,
+   "ci_low": 0.476,
+   "ci_high": 0.823,
+   "p": 0.0
+  },
+  {
+   "model": "M3",
+   "term": "field",
+   "estimate": -0.075,
+   "ci_low": -0.207,
+   "ci_high": 0.056,
+   "p": 0.262
+  },
+  {
+   "model": "M3",
+   "term": "log_gap",
+   "estimate": 0.17,
+   "ci_low": 0.105,
+   "ci_high": 0.236,
+   "p": 0.0
+  },
+  {
+   "model": "M3",
+   "term": "study variance",
+   "estimate": 0.004,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M3",
+   "term": "residual variance",
+   "estimate": 0.006,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M4",
+   "term": "Intercept",
+   "estimate": 0.836,
+   "ci_low": 0.597,
+   "ci_high": 1.075,
+   "p": 0.0
+  },
+  {
+   "model": "M4",
+   "term": "C(cover, Treatment('Floating elements'))[T.Continuous or perforated sheets]",
+   "estimate": 0.131,
+   "ci_low": -0.203,
+   "ci_high": 0.465,
+   "p": 0.441
+  },
+  {
+   "model": "M4",
+   "term": "C(cover, Treatment('Floating elements'))[T.PV panels (floating or above)]",
+   "estimate": 0.216,
+   "ci_low": -0.167,
+   "ci_high": 0.6,
+   "p": 0.269
+  },
+  {
+   "model": "M4",
+   "term": "phi",
+   "estimate": -0.081,
+   "ci_low": -0.33,
+   "ci_high": 0.168,
+   "p": 0.522
+  },
+  {
+   "model": "M4",
+   "term": "wind2",
+   "estimate": -0.018,
+   "ci_low": -0.051,
+   "ci_high": 0.015,
+   "p": 0.285
+  },
+  {
+   "model": "M4",
+   "term": "study variance",
+   "estimate": 0.019,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  },
+  {
+   "model": "M4",
+   "term": "residual variance",
+   "estimate": 0.014,
+   "ci_low": "",
+   "ci_high": "",
+   "p": ""
+  }
+ ]
+}

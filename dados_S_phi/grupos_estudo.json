@@ -1,0 +1,96 @@
+{
+ "_nota": "Reports of the same experiment (PRISMA 2020: one study, several reports). Only the principal report contributes rows to the synthesis; the others are listed as linked reports. 'revisar_uniao' = the linked reports may hold conditions missing from the principal one, to be merged by a reconciliation step (29/10/2026).",
+ "grupos": [
+  {
+   "grupo": "Mady_Zurich_reservoirs",
+   "principal": "Mady2021_10-1029-2020wr028753",
+   "relatos": [
+    "Mady2021_10-1029-2020wr028753",
+    "Mady2021_10-3929-ethz-b-000480077"
+   ],
+   "revisar_uniao": false,
+   "nota": "PhD thesis (ETH 2021) chapter 2 is the WRR 2021 article; same eight reservoirs near Zurich."
+  },
+  {
+   "grupo": "Caruaru_UFPE_tanks",
+   "principal": "JC2023_10-26848-rbgf-v16-6-p3088-3102",
+   "relatos": [
+    "JC2023_10-26848-rbgf-v16-6-p3088-3102",
+    "do2021_evapora-o-em-pequenos-reservat-rios-com-",
+    "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser"
+   ],
+   "revisar_uniao": true,
+   "nota": "Nascimento 2021 master's dissertation -> RBGF 2023 article; Melo 2023 thesis linked by the extractor to the same tanks; check whether Melo adds campaigns."
+  },
+  {
+   "grupo": "Suranaree_PET_bottles",
+   "principal": "Raksaksri2023_10-18178-ijesd-2023-14-3-212",
+   "relatos": [
+    "Raksaksri2023_10-18178-ijesd-2023-14-3-212",
+    "Benjaoran2023_10-26480-wcm-02-2023-114-121"
+   ],
+   "revisar_uniao": true,
+   "nota": "Same 8-pond PET-bottle experiment; Benjaoran 2023 reports a coverage series that may be missing from Raksaksri 2023."
+  },
+  {
+   "grupo": "Cartagena_reservoir_shade_cloth",
+   "principal": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "relatos": [
+    "Alvarez2010_10-5424-sjar-201008s2-1355",
+    "GallegoElvira2011_10-31428-10317-1736"
+   ],
+   "revisar_uniao": false,
+   "nota": "Gallego-Elvira PhD thesis (compendium) includes the reservoir experiments published in 2010-2012."
+  },
+  {
+   "grupo": "Cartagena_pans_shade_materials",
+   "principal": "Alvarez2006_10-5424-sjar-2006044-205",
+   "relatos": [
+    "Alvarez2006_10-5424-sjar-2006044-205",
+    "JM2009_10-31428-10317-792"
+   ],
+   "revisar_uniao": true,
+   "nota": "Martinez-Alvarez thesis chapter 8 (seven shade materials over Class A pans) vs the 2006 article (black polyethylene)."
+  },
+  {
+   "grupo": "Lehmann_wind_tunnel",
+   "principal": "Lehmann2019_10-1029-2018wr024489",
+   "relatos": [
+    "Lehmann2019_10-1029-2018wr024489",
+    "Or2017_10-3929-ethz-b-000227228"
+   ],
+   "revisar_uniao": false,
+   "nota": "Or et al. 2017 abstract of the Lehmann et al. 2019 experiments."
+  }
+ ],
+ "excluir_linhas": {
+  "JC2023_10-26848-rbgf-v16-6-p3088-3102": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "_nota": "dry-interval rows of JC2023 are an alternative analysis of the same conditions as the total rows (reconciliation 30/10/2026)"
+ },
+ "estudos_separados": [
+  {
+   "grupo": "Caruaru_IPA_500L_tanks",
+   "study": "de2023_t-cnicas-de-redu-o-da-evapora-o-em-reser",
+   "linhas": [
+    8,
+    9,
+    10
+   ],
+   "nota": "Melo 2023 Phase 2: four new buried 500 L tanks at the IPA Caruaru site (Mar-Jun 2023), a different experiment"
+  }
+ ],
+ "_nota_estacional": "Melo 2023 rows 11-24 are seasonal sub-periods of Phase 1 rows 1-2 and are not pooled with them."
+}

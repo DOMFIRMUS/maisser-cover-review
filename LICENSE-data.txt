@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Jean Firmino Cardoso and the co-authors listed in CITATION.cff — Departamento
+de Energia Nuclear, Universidade Federal de Pernambuco.
+
+Applies to the data (busca/, dados_S_phi/), the figures and tables (analise/figuras, analise/tabelas)
+and the documentation of this repository. Bibliographic records, extracted values and short locators
+refer to the cited publications, whose texts are not redistributed here.
+
+You are free to share and adapt this material for any purpose, provided that you give appropriate
+credit, provide a link to the licence and indicate if changes were made.
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode

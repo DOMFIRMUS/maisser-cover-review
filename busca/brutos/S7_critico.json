@@ -1,0 +1,465 @@
+{
+ "stratum": "S7 completeness critic",
+ "date": "2026-10-29",
+ "queries": [
+  {
+   "id": "CRIT-OA1",
+   "source": "openalex",
+   "query": "(\"water hyacinth\" OR Eichhornia OR Pistia OR \"floating macrophytes\" OR \"floating vegetation\" OR \"floating plants\" OR \"floating wetland\") (evaporation OR evapotranspiration) (\"open water\" OR \"free water\")",
+   "hits": 24
+  },
+  {
+   "id": "CRIT-OA2",
+   "source": "openalex",
+   "query": "(\"swimming pool\" OR \"pool cover\" OR \"pool covers\" OR \"pool blanket\") evaporation",
+   "hits": 138
+  },
+  {
+   "id": "CRIT-OA3",
+   "source": "openalex",
+   "query": "(screen OR screened OR \"bird screen\" OR mesh OR \"wire mesh\") (\"pan evaporation\" OR \"evaporation pan\" OR \"class A pan\") (reduction OR effect)",
+   "hits": 25
+  },
+  {
+   "id": "CRIT-OA4",
+   "source": "openalex",
+   "query": "(Aquacap OR \"E-Vap Cap\" OR WaterSavr OR Heliotex OR \"floating blanket\" OR \"floating membrane\" OR \"bubble wrap\" OR \"bubble sheet\") evaporation",
+   "hits": 29
+  },
+  {
+   "id": "CRIT-OA5",
+   "source": "openalex",
+   "query": "(\"mine water\" OR \"tailings\" OR \"process water\" OR \"evaporation pond\" OR \"solar pond\" OR \"cooling pond\") evaporation (cover OR covers OR \"floating balls\" OR \"floating elements\") (reduction OR suppression)",
+   "hits": 30
+  },
+  {
+   "id": "CRIT-OA6",
+   "source": "openalex",
+   "query": "(\"floating particles\" OR \"particle raft\" OR \"floating granules\" OR \"hydrophobic particles\" OR \"floating powder\" OR \"floating beads\") evaporation (water surface) (coverage OR packing)",
+   "hits": 1
+  },
+  {
+   "id": "CRIT-S2-1",
+   "source": "semanticscholar",
+   "query": "floating cover coverage ratio evaporation suppression efficiency experiment (failed: API error)",
+   "hits": 0
+  },
+  {
+   "id": "CRIT-OA7",
+   "source": "openalex",
+   "query": "evaporation (cover OR covers OR covering OR \"floating balls\" OR shading) (\"coverage ratio\" OR \"coverage rate\" OR \"covered area\" OR \"covering rate\" OR \"covering ratio\" OR \"surface coverage\") (water OR reservoir OR pond OR pan) --from-year 2024",
+   "hits": 30
+  },
+  {
+   "id": "CRIT-OA8",
+   "source": "openalex",
+   "query": "(\"passive radiative cooling\" OR \"radiative cooling\" OR \"reflective film\" OR \"reflective cover\" OR \"white cover\") (water OR reservoir OR pond OR lake) evaporation --from-year 2023",
+   "hits": 166
+  },
+  {
+   "id": "CRIT-OA9",
+   "source": "openalex",
+   "query": "(\"Bureau of Reclamation\" OR USBR OR \"Geological Survey\") evaporation (reduction OR suppression OR retardation) (cover OR covers OR rafts OR \"floating\" OR \"wax\" OR \"styrofoam\")",
+   "hits": 5
+  },
+  {
+   "id": "CRIT-OA10",
+   "source": "openalex",
+   "query": "(wax OR paraffin OR \"butyl rubber\" OR \"continuous cover\" OR \"floating sheet\" OR \"floating sheets\" OR \"lightweight concrete\" OR \"foamed\") evaporation (tank OR tanks OR pond OR ponds OR reservoir) (reduction OR control OR suppression)",
+   "hits": 30
+  },
+  {
+   "id": "CRIT-OA11",
+   "source": "openalex",
+   "query": "\"partial ice cover\" OR \"partially ice-covered\" OR \"ice fraction\" OR \"lead fraction\" evaporation (lake OR lakes) (turbulent OR \"heat flux\")",
+   "hits": 362
+  },
+  {
+   "id": "CRIT-CR1",
+   "source": "crossref",
+   "query": "Frasier Myers wax evaporation reduction stock tank floating cover Arizona",
+   "hits": 3978
+  },
+  {
+   "id": "CRIT-OA12",
+   "source": "openalex",
+   "query": "(Lemna OR duckweed OR Salvinia OR Nymphaea OR \"water lily\" OR lotus OR \"floating leaves\") evaporation (\"open water\" OR \"water loss\" OR reduction OR pan)",
+   "hits": 40
+  },
+  {
+   "id": "CRIT-OA13",
+   "source": "openalex",
+   "query": "evaporation (\"wet and dry\" OR alternating OR strips OR patches OR \"discrete sources\" OR \"inactive\") (\"mass transfer\" OR \"Sherwood number\") \"boundary layer\" (surface OR plate)",
+   "hits": 9
+  },
+  {
+   "id": "CRIT-OA14",
+   "source": "openalex",
+   "query": "(испарение OR испарения) (снижение OR уменьшение OR сокращение OR покрытие OR пленка) (водохранилищ OR водоемов OR водной поверхности)",
+   "hits": 30
+  },
+  {
+   "id": "CRIT-OA15",
+   "source": "openalex",
+   "query": "cites:W1976755803 (Flytzani-Stephanopoulos 1979, evaporation on heterogeneous surfaces)",
+   "hits": 15
+  },
+  {
+   "id": "CRIT-OA16",
+   "source": "openalex",
+   "query": "(CFD OR \"computational fluid dynamics\" OR \"wind tunnel\" OR \"large eddy simulation\") (\"floating photovoltaic\" OR \"floating solar\" OR \"floating cover\" OR \"floating covers\" OR \"floating elements\") (evaporation OR \"wind speed\" OR \"heat transfer\")",
+   "hits": 30
+  },
+  {
+   "id": "CRIT-OA17",
+   "source": "openalex",
+   "query": "(\"farm pond\" OR \"farm ponds\" OR \"percolation tank\" OR \"village tank\" OR \"water harvesting structure\") evaporation (India OR Indian OR Africa OR Kenya OR Ethiopia OR Zimbabwe OR Tanzania) (cover OR covers OR retardant OR reduction)",
+   "hits": 8
+  },
+  {
+   "id": "CRIT-OA18",
+   "source": "openalex",
+   "query": "evaporation (pan OR pans OR tank OR tanks OR container OR containers OR basin) (cover OR covers OR covered OR \"floating balls\" OR \"shade net\" OR \"floating discs\") (reduction OR suppression OR saving) (experiment OR experimental) --from-year 2024",
+   "hits": 30
+  }
+ ],
+ "candidates": [
+  {
+   "doi": "10.1071/es85017",
+   "title": "Reduction in evaporation due to the bird screen used in the Australian class A pan evaporation network",
+   "year": 1985,
+   "first_author": "M. H. van Dijk",
+   "venue": "Australian Meteorological Magazine",
+   "category": "primary_field",
+   "scale": "pan",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA3",
+   "note": "Quantifies how a suspended mesh screen over Class A pans cuts evaporation, a direct analogue of suspended shade covers and a bias in pan-based S."
+  },
+  {
+   "doi": "10.1017/s0043174500032112",
+   "title": "Studies on Evapotranspiration of Some Aquatic Weeds",
+   "year": 1973,
+   "first_author": "Oto Brezny",
+   "venue": "Weed Science",
+   "category": "primary_lab",
+   "scale": "tank",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Tank comparison of floating aquatic weed evapotranspiration with open-water evaporation; a floating plant cover acting as a non-suppressing cover."
+  },
+  {
+   "doi": "10.1016/0022-1694(74)90075-4",
+   "title": "Evapotranspiration of water hyacinth (Eichhornia crassipes)",
+   "year": 1974,
+   "first_author": "R. van der Weert",
+   "venue": "Journal of Hydrology",
+   "category": "primary_field",
+   "scale": "tank",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Classic ET/open-water ratio for a full floating hyacinth mat; a counter-case where cover raises water loss."
+  },
+  {
+   "doi": "10.1111/j.1752-1688.1978.tb05588.x",
+   "title": "Evapotranspiration from water hyacinth (Eichhornia crassipes) in Texas reservoirs",
+   "year": 1978,
+   "first_author": "Arthur R. Benton",
+   "venue": "JAWRA Journal of the American Water Resources Association",
+   "category": "primary_field",
+   "scale": "reservoir",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Reservoir-scale estimate of water loss under floating hyacinth cover compared with open water."
+  },
+  {
+   "doi": "10.1016/0304-3770(83)90049-9",
+   "title": "Evapotranspiration of Eichhornia crassipes and Lemna minor L. in central Florida: Relation to canopy structure and season",
+   "year": 1983,
+   "first_author": "Thomas A. DeBusk",
+   "venue": "Aquatic Botany",
+   "category": "primary_field",
+   "scale": "tank",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Contrasts tall hyacinth canopy and flat Lemna mat against open water; canopy structure controls whether floating plants raise or cut loss."
+  },
+  {
+   "doi": "10.1029/wr023i006p01037",
+   "title": "Surface geometry and stomatal conductance effects on evaporation from aquatic macrophytes",
+   "year": 1987,
+   "first_author": "Michael G. Anderson",
+   "venue": "Water Resources Research",
+   "category": "primary_field",
+   "scale": "tank",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Mechanistic link between floating-leaf geometry, surface resistance and evaporation versus open water."
+  },
+  {
+   "doi": "10.1016/0304-3770(88)90052-6",
+   "title": "Evapotranspiration rates of Eichhornia crassipes, Salvinia molesta and Nymphaea lotus",
+   "year": 1988,
+   "first_author": "A. Sambasiva Rao",
+   "venue": "Aquatic Botany",
+   "category": "primary_field",
+   "scale": "tank",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Indian tank comparison of three floating plants against open water, including floating-leaf Nymphaea."
+  },
+  {
+   "doi": "10.1007/s13157-016-0778-z",
+   "title": "Sub-canopy Evapotranspiration from Floating Vegetation and Open Water in a Swamp Forest",
+   "year": 2016,
+   "first_author": "Scott T. Allen",
+   "venue": "Wetlands",
+   "category": "primary_field",
+   "scale": "pond_dam",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA1",
+   "note": "Measured evaporation from floating vegetation versus open water under a sheltering canopy."
+  },
+  {
+   "doi": "10.22541/au.172612265.58973465/v1",
+   "title": "Impacts of water hyacinth on Lake Evaporation and Water Quality: The case of Lake Tana, Ethiopia",
+   "year": 2024,
+   "first_author": "Alemu B. Mengesha",
+   "venue": "Authorea preprint",
+   "category": "primary_field",
+   "scale": "lake",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA1",
+   "note": "Recent lake-scale study of water loss under partial hyacinth cover."
+  },
+  {
+   "doi": "10.3390/w18101247",
+   "title": "Hydrological and Water Quality Implications of Water Hyacinth: A Case Study of Lake Tana, Ethiopian Highlands",
+   "year": 2026,
+   "first_author": "Alemu B. Mengesha",
+   "venue": "Water",
+   "category": "primary_field",
+   "scale": "lake",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA1",
+   "note": "Published version of the Lake Tana floating-plant evaporation study."
+  },
+  {
+   "doi": "10.1002/hyp.70609",
+   "title": "Impact of Macrophyte Evapotranspiration on Water Availability in Tropical Northeast Brazil",
+   "year": 2026,
+   "first_author": "Danilo Brito da Silva Souza",
+   "venue": "Hydrological Processes",
+   "category": "primary_field",
+   "scale": "reservoir",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA1",
+   "note": "Brazilian semi-arid reservoir study of floating-macrophyte cover and water loss, complementing Rodrigues 2025."
+  },
+  {
+   "doi": "",
+   "title": "Simulation of Water Losses Control in Dam From the Evaporation by Aquatic Plants Application (Case Study Wonogiri Dam)",
+   "year": 2021,
+   "first_author": "Haryo Istianto",
+   "venue": "(no venue in OpenAlex)",
+   "category": "model_study",
+   "scale": "reservoir",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA12",
+   "note": "Indonesian simulation of aquatic-plant cover as an evaporation control on a reservoir."
+  },
+  {
+   "doi": "10.1016/0038-092x(80)90447-8",
+   "title": "Low-cost solar heating of community pools using pool covers",
+   "year": 1980,
+   "first_author": "Jim Francey",
+   "venue": "Solar Energy",
+   "category": "primary_field",
+   "scale": "pond_dam",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA2",
+   "note": "Pool-cover field study where cutting evaporation is the main term in the energy balance."
+  },
+  {
+   "doi": "10.1016/s0038-092x(94)90597-5",
+   "title": "Measurement and analysis of evaporation from an inactive outdoor swimming pool",
+   "year": 1994,
+   "first_author": "Charles C. Smith",
+   "venue": "Solar Energy",
+   "category": "primary_field",
+   "scale": "pond_dam",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA2",
+   "note": "Widely cited small-water-body evaporation measurement and wind-function calibration used for pool-cover savings."
+  },
+  {
+   "doi": "10.26868/25222708.2025.1871",
+   "title": "Quantifying the Influence of the Pool Cover on the Water Evaporation Rate in Indoor Swimming Halls",
+   "year": 2025,
+   "first_author": "Ole Oiene Smedegard",
+   "venue": "Building Simulation Conference proceedings",
+   "category": "primary_field",
+   "scale": "pond_dam",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA2",
+   "note": "Recent measurement of evaporation cut by pool covers; an indoor (no-wind) end-member."
+  },
+  {
+   "doi": "10.1016/0009-2509(79)85069-1",
+   "title": "Evaporation rates and surface profiles on heterogeneous surfaces with mass transfer and surface reaction",
+   "year": 1979,
+   "first_author": "Maria Flytzani-Stephanopoulos",
+   "venue": "Chemical Engineering Science",
+   "category": "theory",
+   "scale": "none",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA13",
+   "note": "Boundary-layer theory of evaporation from surfaces with active and inactive patches; a parallel to gap-diffusion models."
+  },
+  {
+   "doi": "10.1016/0255-2701(91)85001-5",
+   "title": "Transport phenomena over partially active surfaces",
+   "year": 1991,
+   "first_author": "Achim Stammer",
+   "venue": "Chemical Engineering and Processing",
+   "category": "theory",
+   "scale": "none",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA13",
+   "note": "Mass transfer over partially active surfaces with fractional active area, the Schlunder-type nonlinearity behind S not equal to phi."
+  },
+  {
+   "doi": "10.1016/0021-8928(81)90013-7",
+   "title": "On the concentration field of an orderly system of reacting plates",
+   "year": 1981,
+   "first_author": "A. D. Polyanin",
+   "venue": "Journal of Applied Mathematics and Mechanics",
+   "category": "theory",
+   "scale": "none",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA15",
+   "note": "Analytical interaction of mass transfer from an ordered array of plates in a flow; theory of source interaction."
+  },
+  {
+   "doi": "",
+   "title": "Evaporation of water as related to wind barriers",
+   "year": 2015,
+   "first_author": "Shashi B. Verma",
+   "venue": "Colorado State University digital collections (thesis/report; repository date)",
+   "category": "primary_field",
+   "scale": "pond_dam",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA13",
+   "note": "Colorado State study of wind-barrier sheltering effects on open-water evaporation."
+  },
+  {
+   "doi": "",
+   "title": "Equipment and Techniques for Aerial Application of Evaporation-Reducing Monolayer-Forming Materials to Lakes and Reservoirs",
+   "year": 1964,
+   "first_author": "Vaughn E. Hansen",
+   "venue": "Utah State University Digital Commons report",
+   "category": "other",
+   "scale": "reservoir",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA9",
+   "note": "1960s US monolayer-application report from the federal-era evaporation suppression program."
+  },
+  {
+   "doi": "10.1061/jrcea4.0000561",
+   "title": "Stable Alkanol Dispersion to Reduce Evaporation",
+   "year": 1968,
+   "first_author": "Frasier",
+   "venue": "Journal of the Irrigation and Drainage Division (ASCE)",
+   "category": "monolayer_continuous",
+   "scale": "tank",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-CR1",
+   "note": "USDA Phoenix group (Frasier/Myers/Cooley) work on alkanol dispersions, predecessor of their floating-cover tank studies."
+  },
+  {
+   "doi": "",
+   "title": "Extending water supply by reducing reservoir evaporation: a case study from Wichita Falls",
+   "year": 2015,
+   "first_author": "David Verlee",
+   "venue": "(no venue in OpenAlex)",
+   "category": "primary_field",
+   "scale": "reservoir",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA4",
+   "note": "US case study of reservoir evaporation-reduction options at Wichita Falls, Texas."
+  },
+  {
+   "doi": "10.2139/ssrn.4573831",
+   "title": "Solar Reflective Covers on Water Reservoirs Suitable for Global Subsidies",
+   "year": 2023,
+   "first_author": "Jeff T. Haley",
+   "venue": "SSRN Electronic Journal",
+   "category": "other",
+   "scale": "reservoir",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA8",
+   "note": "Proposal and analysis of solar-reflective reservoir covers; relevant to the albedo/radiative pathway."
+  },
+  {
+   "doi": "10.47176/pd.2026.1561",
+   "title": "Numerical Simulation and Experimental Validation of Surface Water Evaporation Reduction Using Novel Coating",
+   "year": 2026,
+   "first_author": "Mohammad Hassanzadeh",
+   "venue": "Passive Defense Quarterly (Persian)",
+   "category": "primary_lab",
+   "scale": "pan",
+   "quantitative_S_phi": "maybe",
+   "found_by": "CRIT-OA3",
+   "note": "Recent Iranian pan experiment plus simulation of a new surface coating for evaporation reduction."
+  },
+  {
+   "doi": "",
+   "title": "Mechanical Calculation of Evaporation-Control Floating Slab for Plain Reservoirs in Arid Area",
+   "year": 2006,
+   "first_author": "LI Yu-jian",
+   "venue": "China Rural Water and Hydropower",
+   "category": "other",
+   "scale": "reservoir",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA10",
+   "note": "Early Chinese design paper for floating anti-evaporation slabs on Xinjiang plain reservoirs."
+  },
+  {
+   "doi": "",
+   "title": "Session 2B: Pond liners and floating covers",
+   "year": 1984,
+   "first_author": "Doug Attaway",
+   "venue": "(conference session, no venue in OpenAlex)",
+   "category": "other",
+   "scale": "pond_dam",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA10",
+   "note": "1980s conference material on floating covers for ponds; grey literature to check."
+  },
+  {
+   "doi": "10.1051/epjpv/2024020",
+   "title": "Floating photovoltaics: modelled and experimental operating temperatures and the impact of wind speed and direction",
+   "year": 2024,
+   "first_author": "Vilde Stueland Nysted",
+   "venue": "EPJ Photovoltaics",
+   "category": "primary_fpv",
+   "scale": "reservoir",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA16",
+   "note": "FPV heat-transfer and wind-dependence data relevant to the energy balance of PV-covered water."
+  },
+  {
+   "doi": "10.1016/j.solener.2022.04.028",
+   "title": "CFD modelling to derive U-values for floating PV technologies with large water footprint",
+   "year": 2022,
+   "first_author": "Dag Lindholm",
+   "venue": "Solar Energy",
+   "category": "model_study",
+   "scale": "none",
+   "quantitative_S_phi": "no",
+   "found_by": "CRIT-OA16",
+   "note": "CFD heat-transfer coefficients for water-hugging FPV; mechanistic input for cover-water thermal coupling."
+  }
+ ],
+ "coverage_note": "The input list was already very complete for floating and suspended covers, monolayers, FPV and canal-top PV, pore-diffusion theory, and Portuguese, Spanish, Persian, Turkish, Arabic and Chinese work. Recent 2024-2026 searches on coverage ratio, pan and tank cover experiments, and radiative-cooling covers found no new records. Every relevant hit was already listed, including Duan 2026, Asfahan 2026, Ouchkir 2026, Rezazadeh 2025 and Cardoso 2026. I found four kinds of missing material. (1) Floating-plant covers as natural analogues: the 1970s-1980s water hyacinth, Lemna, Salvinia and Nymphaea evapotranspiration-versus-open-water studies (Brezny 1973, van der Weert 1974, Benton 1978, DeBusk 1983, Anderson 1987, Rao 1988) and recent Lake Tana and NE Brazil macrophyte work. These matter because floating leaves can raise rather than cut water loss, which is a counter-case for S vs phi. (2) Swimming-pool covers, a small-scale literature on covers, energy and evaporation (Francey 1980, Smith 1994, Smedegard 2025). (3) Pan-screen effects (van Dijk 1985, the Australian bird screen on Class A pans). This is directly relevant to suspended-cover sheltering and to bias in pan-based S estimates. (4) Chemical-engineering theory of mass transfer from partially active or heterogeneous surfaces (Flytzani-Stephanopoulos 1979, Stammer 1991, Polyanin 1981). This is a parallel to Schlunder-type gap-diffusion models that the list did not have. Smaller additions: USU/USBR-era grey literature (Hansen 1964 monolayer application, Frasier 1968 alkanol dispersion, Verma wind barriers), the Wichita Falls case study (Verlee), a 2006 Chinese floating-slab design paper, and FPV thermal and wind work (Nysted 2024, Lindholm 2022) for the energy-balance and aerodynamic part. What remains uncovered: the Semantic Scholar query failed (API error), so S2 coverage was not tested. The Russian-language query returned nothing relevant. USBR REC-ERC reports and pre-1970 Indian and Israeli grey literature (e.g. on wax and perlite) are probably not indexed in OpenAlex or Crossref and would need library or catalogue searches. Partial-ice-cover lake flux literature was checked and judged off-target."
+}

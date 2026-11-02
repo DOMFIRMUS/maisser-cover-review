@@ -1,0 +1,106 @@
+{
+ "stratum": "S3 floating photovoltaics (FPV) and evaporation",
+ "date": "2026-10-28",
+ "queries": [
+  {
+   "id": "OA1",
+   "source": "OpenAlex",
+   "query": "(\"floating photovoltaic\" OR \"floating photovoltaics\" OR \"floating solar\" OR floatovoltaic OR floatovoltaics OR \"floating PV\" OR FPV) (evaporation OR \"water saving\" OR \"water savings\" OR \"evaporation reduction\")",
+   "hits": 542,
+   "screened": 200
+  },
+  {
+   "id": "OA2",
+   "source": "OpenAlex",
+   "query": "(\"floating photovoltaic\" OR \"floating photovoltaics\" OR \"floating solar\" OR floatovoltaic OR floatovoltaics OR \"floating PV\") (microclimate OR \"energy balance\" OR \"energy budget\" OR \"heat flux\" OR \"eddy covariance\" OR \"water temperature\" OR stratification OR \"latent heat\")",
+   "hits": 144,
+   "screened": 120
+  },
+  {
+   "id": "OA3",
+   "source": "OpenAlex",
+   "query": "(photovoltaic OR photovoltaics OR \"solar panel\" OR \"solar panels\" OR \"solar array\" OR \"solar arrays\") (\"evaporation reduction\" OR \"evaporation suppression\" OR \"reduce evaporation\" OR \"reducing evaporation\" OR \"evaporation loss\" OR \"evaporation losses\" OR \"evaporation mitigation\" OR \"water evaporation\") NOT (\"floating photovoltaic\" OR \"floating photovoltaics\" OR \"floating PV\" OR \"floating solar\")",
+   "hits": 199,
+   "screened": 120
+  },
+  {
+   "id": "OA4",
+   "source": "OpenAlex",
+   "query": "cites:10.1016/j.renene.2016.12.094 (forward citations of Taboada et al. 2017)",
+   "hits": 113,
+   "screened": 113
+  },
+  {
+   "id": "OA5",
+   "source": "OpenAlex",
+   "query": "cites:10.1002/er.5170 (forward citations of Bontempo Scavo et al. 2020/2021)",
+   "hits": 151,
+   "screened": 151
+  },
+  {
+   "id": "OA6",
+   "source": "OpenAlex",
+   "query": "cites:10.1016/j.jenvman.2024.121494 (forward citations of Liu et al. 2024)",
+   "hits": 18,
+   "screened": 18
+  },
+  {
+   "id": "OA7",
+   "source": "OpenAlex",
+   "query": "(\"floating photovoltaic\" OR \"floating photovoltaics\" OR \"floating solar\" OR \"floating PV\" OR FPV) (Brazil OR Brazilian OR semiarid OR \"semi-arid\" OR Caatinga OR Ceará OR Nordeste) (evaporation OR \"water saving\" OR \"water security\")",
+   "hits": 53,
+   "screened": 53
+  },
+  {
+   "id": "OA8",
+   "source": "OpenAlex",
+   "query": "(\"floating solar\" OR \"floating photovoltaic\" OR \"floating photovoltaics\") lakes (worldwide OR global) (decarbonization OR evaporation)",
+   "hits": 35,
+   "screened": 35
+  },
+  {
+   "id": "OA9",
+   "source": "OpenAlex",
+   "query": "(\"canal-top\" OR \"canal top\" OR \"over-canal\" OR \"solar canal\" OR \"solar canals\" OR \"canal solar\" OR canalvoltaic OR \"covering canals\" OR \"canal-mounted\") (evaporation OR \"water saving\" OR \"water savings\" OR \"water conservation\")",
+   "hits": 35,
+   "screened": 35
+  },
+  {
+   "id": "OA10",
+   "source": "OpenAlex",
+   "query": "(\"fishery-photovoltaic\" OR \"fishery photovoltaic\" OR \"fishery complementary\" OR \"fishery-solar\" OR aquavoltaic OR aquavoltaics OR \"water-surface photovoltaic\" OR \"water surface photovoltaic\" OR \"water-surface photovoltaics\") (evaporation OR microclimate OR \"water temperature\" OR \"wind speed\" OR \"energy balance\")",
+   "hits": 21,
+   "screened": 21
+  },
+  {
+   "id": "OA11",
+   "source": "OpenAlex",
+   "query": "refs:10.1051/epjpv/2024047 (backward references of Berlioux et al. 2025)",
+   "hits": 22,
+   "screened": 22
+  },
+  {
+   "id": "OA12",
+   "source": "OpenAlex",
+   "query": "refs:10.1016/j.renene.2025.124901 (backward references of Amiot et al. 2025)",
+   "hits": 33,
+   "screened": 33
+  },
+  {
+   "id": "OA13",
+   "source": "OpenAlex",
+   "query": "cites:10.1016/j.energy.2014.01.083 (forward citations of Redon Santafe et al. 2014); run twice, first output lost by a piping error, so the log holds two identical OA13 entries",
+   "hits": 191,
+   "screened": 191
+  },
+  {
+   "id": "OA14",
+   "source": "OpenAlex",
+   "query": "cites:10.1038/s41893-023-01089-6 (forward citations of Jin et al. 2023)",
+   "hits": 168,
+   "screened": 168
+  }
+ ],
+ "candidates": [],
+ "coverage_note": "interim save after OA1-OA14"
+}

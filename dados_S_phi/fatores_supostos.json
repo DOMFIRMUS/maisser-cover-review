@@ -1,0 +1,1275 @@
+{
+ "fatores": [
+  {
+   "record": "doi:10.17159/wsa/2024.v50.i3.4121",
+   "bibkey": "Chapman2024",
+   "is_pv": false,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated in abstract ('specified water-saving efficiencies' per technology, probably literature)",
+   "evidence": "URV cost analysis using 'specified water-saving efficiencies for each technology' (monolayers, shade cloth, hard/soft floating covers); values not in abstract"
+  },
+  {
+   "record": "tit:waterbudgetcomputermodeltoinvestigatetheeffectivenessofevapo",
+   "bibkey": "Lozier1984",
+   "is_pv": false,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated (no abstract)",
+   "evidence": "Screening only: water-budget thesis, control options likely with assumed reduction factors"
+  },
+  {
+   "record": "doi:10.3390/w15040635",
+   "bibkey": "Abdelgaied2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Screening S=61.71 % but abstract truncated; unclear whether this is an assumed factor or a computed result, and on which area; partial FPV coverage of Lake Nasser"
+  },
+  {
+   "record": "tit:evaporationcontrolhinzedamcasestudy",
+   "bibkey": "West2006",
+   "is_pv": false,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "likely literature values (screening), unstated",
+   "evidence": "No abstract; options appraisal for large dam, 'likely literature reductions'"
+  },
+  {
+   "record": "doi:10.1016/j.agwat.2009.04.008",
+   "bibkey": "Alvarez2009a",
+   "is_pv": false,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 1,
+   "origin": "cited study (authors' earlier shade-cloth measurements)",
+   "evidence": "Screening: economic analysis using previously measured shade-cloth reduction, full cover; value not given"
+  },
+  {
+   "record": "tit:impactofreservoirevaporationandevaporationsuppressiononwater",
+   "bibkey": "Ayala2013",
+   "is_pv": false,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Screening: WRAP simulation with assumed suppression fractions; no abstract"
+  },
+  {
+   "record": "tit:floatingpvinbulawayoevaluatingevaporationmitigationenergyyie",
+   "bibkey": "FHD2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Thesis, no abstract; screening: coverage-proportional FPV evaporation savings likely"
+  },
+  {
+   "record": "doi:10.3390/w13060769",
+   "bibkey": "AbdElhamid2021",
+   "is_pv": true,
+   "factor": 0.7,
+   "basis": "under_cover_area",
+   "phi": 1,
+   "origin": "unstated in abstract (derived from reported numbers)",
+   "evidence": "Lake evaporation 12.0e9 m3/yr; covering 25-100 % saves 2.1...8.4e9 m3/yr, i.e. 8.4/12.0 = 0.70 at full cover and 2.1/12 = 0.175 at 25 % (linear in phi); phi scenarios 0.25, 0.5, 0.75, 1"
+  },
+  {
+   "record": "doi:10.21741/9781644904091-17",
+   "bibkey": "SEDKI2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.05,
+   "origin": "unstated",
+   "evidence": "Simplified Penman evaporation, conservative 5 % coverage scenario; reduction factor not given in abstract"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2021.09.104",
+   "bibkey": "Lopes2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "National FPV potential Brazil; abstract is only a manuscript notice; screening: savings from assumed factor"
+  },
+  {
+   "record": "doi:10.1016/j.jclepro.2020.122010",
+   "bibkey": "PadilhaCamposLopes2020",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Evaporation prevented estimated for weirs under 3 cover scenarios (dead-storage area, 50 %, 70 % of area); factor not stated"
+  },
+  {
+   "record": "doi:10.1016/j.jclepro.2013.11.006",
+   "bibkey": "Santafe2013",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; FPV cover on irrigation reservoir, saving likely estimated"
+  },
+  {
+   "record": "doi:10.1016/j.energy.2023.127039",
+   "bibkey": "Munoz2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.25,
+   "origin": "unstated",
+   "evidence": "Jaen irrigation ponds, conservative scenario covering 25 % of surface; savings estimated, factor not given"
+  },
+  {
+   "record": "doi:10.1007/s13762-021-03686-4",
+   "bibkey": "Ravichandran2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "5 MW FPV on Indian reservoirs saves 1.40 million m3/day; screening: area-based savings"
+  },
+  {
+   "record": "doi:10.3390/en15176274",
+   "bibkey": "Santos2022",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "rule of thumb (implicit full suppression of evaporating area)",
+   "evidence": "FPV 'reduce water evaporation ... by suppressing the evaporating area'; open-water evaporation (Penman-Monteith, Linacre, etc.) times covered area"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2013.04.007",
+   "bibkey": "Gisbert2013",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; FPV cover design, saving likely assumed"
+  },
+  {
+   "record": "doi:10.1016/j.egypro.2017.09.585",
+   "bibkey": "RosaClot2017",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV on wastewater basins; evaporation reduction claimed as co-benefit, no value in abstract"
+  },
+  {
+   "record": "doi:10.1021/acs.est.5c17148",
+   "bibkey": "Seitz2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "earlier literature / harmonised LCAs",
+   "evidence": "LCA harmonisation including changes in evaporation; screening: savings from literature assumptions; abstract truncated before value"
+  },
+  {
+   "record": "doi:10.1080/14786451.2020.1870975",
+   "bibkey": "Ravichandran2021a",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.3,
+   "origin": "unstated",
+   "evidence": "Covering 30 % of Vaigai reservoir saves 42,731.56 m3/yr; screening: area-based saving"
+  },
+  {
+   "record": "doi:10.1016/j.apenergy.2026.128159",
+   "bibkey": "Hayibo2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Foam FPV thermal study; screening: evaporation scaled linearly with coverage, up to 50 %"
+  },
+  {
+   "record": "doi:10.1016/j.jclepro.2025.145468",
+   "bibkey": "Rahaman2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "7E assessment of 130 kWp Passauna FPV; evaporation volume estimate, abstract truncated before value"
+  },
+  {
+   "record": "doi:10.1109/smarttechcon.2017.8358376",
+   "bibkey": "Mittal2017",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "rule of thumb (empirical evaporation x covered area)",
+   "evidence": "Savings from five empirical evaporation relations for 5, 10, 15, 20 % area coverage; screening: evaporation times covered area"
+  },
+  {
+   "record": "doi:10.1093/ce/zkab006",
+   "bibkey": "Ravichandran2021b",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Mettur reservoir FPV design; evaporation saving estimated, no factor in abstract"
+  },
+  {
+   "record": "doi:10.1080/09640568.2020.1719824",
+   "bibkey": "Rodrigues2020",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Gaviao reservoir; evaporation losses reduced ~2.6e6 m3/yr; screening: area-based"
+  },
+  {
+   "record": "doi:10.1680/jensu.23.00047",
+   "bibkey": "Mamatha2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Water savings computed for five Indian reservoirs, total coverage < 20 %; two floating structure types"
+  },
+  {
+   "record": "doi:10.3390/en17040851",
+   "bibkey": "Venturini2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": 0.25,
+   "origin": "unstated",
+   "evidence": "Non-evaporated water vs basin coverage (up to 25 %), +3.56 % hydroelectricity at 25 %"
+  },
+  {
+   "record": "doi:10.1115/1.4045352",
+   "bibkey": "Zubair2019",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Site selection FPV Pakistan; evaporation reduction mentioned generically"
+  },
+  {
+   "record": "doi:10.1088/1755-1315/1105/1/012004",
+   "bibkey": "Aminuddin2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "National FPV-hydro potential Indonesia; evaporation reduction only qualitative"
+  },
+  {
+   "record": "doi:10.1201/9781003272717-11",
+   "bibkey": "Misra2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "310 MW FPV Mukutmanipur; water recovered area-based (screening); abstract truncated"
+  },
+  {
+   "record": "doi:10.48084/etasr.17322",
+   "bibkey": "Kassem2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Evaporation model comparison (BMA) with implications for FPV savings; no factor in abstract"
+  },
+  {
+   "record": "doi:10.3390/pr9061005",
+   "bibkey": "Ravichandran2021c",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "5 MW FPV per dam (Helioscope), evaporation saving estimated"
+  },
+  {
+   "record": "doi:10.1115/1.4052959",
+   "bibkey": "Reges2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "'the evaporation reduction is proportional to the FPV plant area'"
+  },
+  {
+   "record": "doi:10.1016/j.apenergy.2024.125268",
+   "bibkey": "Bamoshmoosh2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "MILP PHS-FPV optimisation with evaporation reduction term; no value in abstract"
+  },
+  {
+   "record": "doi:10.3390/en19112646",
+   "bibkey": "Wagher2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.25,
+   "origin": "unstated",
+   "evidence": "Evaporation savings 'from photovoltaic panel shading', 5 MW FPV covering 25 % of surface"
+  },
+  {
+   "record": "doi:10.1016/j.nexus.2026.100683",
+   "bibkey": "Aznaveh2026",
+   "is_pv": true,
+   "factor": 0.8,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated (assumed '80% FPV efficiency')",
+   "evidence": "FAO-PM evaporation; coverage 5, 10, 20 % 'with 80% FPV efficiency'; screening: 80 % under panels (assumed)"
+  },
+  {
+   "record": "doi:10.55449/conresol.7.24.xv-020",
+   "bibkey": "Silva2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Coremas-Mae d'Agua feasibility; evaporation savings volume only"
+  },
+  {
+   "record": "doi:10.11113/aej.v15.22813",
+   "bibkey": "Abdulhadi2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Coverage 20, 40, 60, 80 % of Haditha/Dukan; evaporation savings computed, no factor"
+  },
+  {
+   "record": "doi:10.22541/au.174894702.29712587/v1",
+   "bibkey": "Abdulhadi2025a",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Companion preprint, Hamrin/Mosul coverage 20-80 %"
+  },
+  {
+   "record": "tit:floatovoltaicsquantifyingthebenefitsofahydrosolarpowerfusion",
+   "bibkey": "McKay2013",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; floatovoltaics benefits with assumed evaporation savings"
+  },
+  {
+   "record": "doi:10.5281/zenodo.23471459",
+   "bibkey": "Dirim2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "GIS dataset, 108 Turkish reservoirs, coverage 5-20 %; water conservation estimates"
+  },
+  {
+   "record": "doi:10.1038/s41893-023-01089-6",
+   "bibkey": "Jin2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; global reservoir FPV water savings, likely assumed reduction"
+  },
+  {
+   "record": "doi:10.3390/jmse11050905",
+   "bibkey": "RioGamero2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "1.85 MWp FPV on pond; evaporation avoided computed from area (screening)"
+  },
+  {
+   "record": "doi:10.1109/pedes56012.2022.10080502",
+   "bibkey": "Patil2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "HOMER hybrid FPV-hydro; evaporation reduction generic"
+  },
+  {
+   "record": "doi:10.1093/ce/zkad017",
+   "bibkey": "Ravichandran2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "GIS FPV potential Tamil Nadu; water savings area-based"
+  },
+  {
+   "record": "doi:10.22097/eeer.2020.195314.1099",
+   "bibkey": "Sadeghi2020",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Tanguie dam; water saving from covered area (screening)"
+  },
+  {
+   "record": "doi:10.1109/sgc49328.2019.9056632",
+   "bibkey": "Zahedi2019",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV sizing on Chah-nimeh lake; saved ~724 m3/yr, by area"
+  },
+  {
+   "record": "doi:10.1007/s43621-025-02419-8",
+   "bibkey": "Mouhaya2025",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "rule of thumb (FAO-56 evaporation x covered area)",
+   "evidence": "Al Wahda dam, 5, 10, 15 % coverage; screening: FAO-56 evaporation times covered area"
+  },
+  {
+   "record": "doi:10.1109/ecce64574.2025.11014046",
+   "bibkey": "Tonmoy2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Karnafuli hydropower-FPV; evaporation only qualitative"
+  },
+  {
+   "record": "doi:10.1109/kpec61529.2024.10676208",
+   "bibkey": "Hussain2024",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "rule of thumb (implicit full suppression of covered area)",
+   "evidence": "FPV reduce evaporation 'by reducing the evaporating area'; Linacre evaporation times covered area; 9 million gal/yr avoided"
+  },
+  {
+   "record": "doi:10.46855/energy-proceedings-10909",
+   "bibkey": "Catania2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "PHS-FPV optimisation includes basin surface evaporation reduction; no value"
+  },
+  {
+   "record": "doi:10.23919/splitech70133.2026.11685492",
+   "bibkey": "Bajc2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Serbian lakes multi-parametric assessment incl. evaporation reduction; no value"
+  },
+  {
+   "record": "doi:10.1038/s44406-026-00025-9",
+   "bibkey": "Mouhaya2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "58 Moroccan dams techno-economic incl. evaporation; no factor in abstract"
+  },
+  {
+   "record": "doi:10.24018/ejenergy.2023.3.1.100",
+   "bibkey": "Vourdoubas2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "128 Greek reservoirs, 10-30 % coverage; savings area-based"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2025.123040",
+   "bibkey": "Gagliardi2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV hydrogen on irrigation reservoir; ~1.87 million m3 conserved with largest plant"
+  },
+  {
+   "record": "doi:10.22059/ees.2017.25760",
+   "bibkey": "Azami2017",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": 0.02,
+   "origin": "rule of thumb (energy-budget evaporation x covered area)",
+   "evidence": "Energy-budget evaporation; 2 % of 1.59 km2 covered; screening: evaporation times 2 % covered area"
+  },
+  {
+   "record": "doi:10.1109/icicacs65178.2025.10967626",
+   "bibkey": "Ananda2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "PSO/FLA optimisation with water-evaporation reduction objective; no factor"
+  },
+  {
+   "record": "doi:10.1016/j.rineng.2024.102742",
+   "bibkey": "GonzalezGonzalez2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.1,
+   "origin": "unstated",
+   "evidence": "14 Mexican hydropower reservoirs, 'assumption of a 10% coverage'; water savings estimated"
+  },
+  {
+   "record": "doi:10.1016/j.heliyon.2024.e35180",
+   "bibkey": "Saeed2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "1.0 MW FPV Saudi Arabia techno-economic; savings likely assumed"
+  },
+  {
+   "record": "doi:10.37394/232025.2023.5.17",
+   "bibkey": "Farghally2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "PVsyst design for Toshka lake; evaporation reduction generic"
+  },
+  {
+   "record": "doi:10.29303/jppipa.v12i9.15797",
+   "bibkey": "Prabawanti2026",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": 0.05,
+   "origin": "rule of thumb (change in exposed area)",
+   "evidence": "'evaporation savings were derived from the change in exposed surface area', 5 % of Sutami reservoir"
+  },
+  {
+   "record": "doi:10.1007/s43621-025-01715-7",
+   "bibkey": "Latif2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Simplified Penman with FPV scenarios covering 1 % and 10 %; factor not given"
+  },
+  {
+   "record": "doi:10.22044/rera.2022.11726.1104",
+   "bibkey": "Omrani2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.003,
+   "origin": "unstated",
+   "evidence": "10 MW FPV covering 0.3 % of reservoir; evaporation reduced by 441.2-515.2 thousand m3"
+  },
+  {
+   "record": "doi:10.2139/ssrn.5960265",
+   "bibkey": "Yavuz2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; national FPV potential and water savings Turkey"
+  },
+  {
+   "record": "doi:10.1061/jwrmd5.wreng-5812",
+   "bibkey": "Ma2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV over diversion canals to decrease evaporation, feeding emergency-supply reliability; no factor"
+  },
+  {
+   "record": "doi:10.31026/j.eng.2025.03.04",
+   "bibkey": "Abdulhadi2025b",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Five Iraqi dams covered 5, 10, 25, 50, 75, 100 %; volumes saved at 100 % given, no factor"
+  },
+  {
+   "record": "doi:10.9734/bpi/rhst/v5/19494d",
+   "bibkey": "Vourdoubas2023a",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Crete dams, coverage 10-30 %; savings area-based"
+  },
+  {
+   "record": "doi:10.1088/2753-3751/adf116",
+   "bibkey": "Pieruzzi2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "OSeMOSYS planning with new methodology for FPV evaporation reduction in hydropower reservoirs; no value"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2021.01.041",
+   "bibkey": "Sanchez2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "146 African hydropower reservoirs, evaporation savings per scenario; abstract truncated"
+  },
+  {
+   "record": "doi:10.1016/j.rser.2022.112989",
+   "bibkey": "Kakoulaki2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": 0.023,
+   "origin": "unstated",
+   "evidence": "337 EU hydropower reservoirs, four scenarios; water savings estimated from climatic parameters (2018); screening phi=0.023"
+  },
+  {
+   "record": "tit:designandanalysisforafeasibilitystudyofafloatingsolarpvpower",
+   "bibkey": "Moqulo2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; Metolong Dam FPV feasibility"
+  },
+  {
+   "record": "doi:10.1038/s41598-024-56952-z",
+   "bibkey": "Stiubiener2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 1,
+   "origin": "unstated",
+   "evidence": "Canal-top PV over PISF channels; water savings computed for full coverage"
+  },
+  {
+   "record": "doi:10.1029/2025ef006658",
+   "bibkey": "Li2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Global water-surface PV; savings from 'a water evaporation model'; no factor"
+  },
+  {
+   "record": "doi:10.1016/j.egyr.2023.06.052",
+   "bibkey": "Khan2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "HOMER canal PV/hydrokinetic; evaporation conservation generic"
+  },
+  {
+   "record": "doi:10.1080/15567036.2023.2217774",
+   "bibkey": "Farhat2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "1 MW over-canal PV, Naubahar canal; water conservation estimated, no factor"
+  },
+  {
+   "record": "doi:10.1016/j.nexus.2025.100455",
+   "bibkey": "Kaab2025",
+   "is_pv": true,
+   "factor": 0.45,
+   "basis": "total_water_surface",
+   "phi": 0.6,
+   "origin": "computed result in study (not a stated input factor)",
+   "evidence": "Canal evaporation ~1,389,597 m3/yr; 60 % panel coverage; screening S ~45 % (computed) of canal evaporation"
+  },
+  {
+   "record": "doi:10.3390/electronics12234879",
+   "bibkey": "Solfrini2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "earlier literature (screening: literature-based)",
+   "evidence": "Canalvoltaico Emilia-Romagna cost framework; water savings literature-based"
+  },
+  {
+   "record": "doi:10.1016/j.ecmx.2025.101502",
+   "bibkey": "Zaheb2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.2,
+   "origin": "unstated",
+   "evidence": "Qush-Tepa canal-top PV covering 20 % of canal area; Evaporation Coefficient Method"
+  },
+  {
+   "record": "doi:10.21203/rs.3.rs-3855056/v1",
+   "bibkey": "Abaas2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Sudan canals PV; conserve ~70 million m3/yr; no factor"
+  },
+  {
+   "record": "doi:10.3390/en14092620",
+   "bibkey": "Alhejji2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "PV over Egyptian irrigation canals; monthly evaporation formula; no factor"
+  },
+  {
+   "record": "doi:10.1002/hyp.14466",
+   "bibkey": "AbdElaty2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "MODFLOW scenario of lining plus PV covers on canals; evaporation reduction assumed (screening), no value"
+  },
+  {
+   "record": "doi:10.3390/en17215300",
+   "bibkey": "Kassem2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "15 reservoirs Northern Cyprus techno-economic; focus on irradiation statistics"
+  },
+  {
+   "record": "doi:10.1002/gch2.202300321",
+   "bibkey": "Yigit2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Turgutlu irrigation pond, two scenarios reduce evaporation by 6686 and 94.4 m3/yr"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2025.124297",
+   "bibkey": "Akhtar2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; 20 Rajasthan lakes FPV potential and evaporation"
+  },
+  {
+   "record": "doi:10.31497/zrzyxb.20250511",
+   "bibkey": "CHEN2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Upper Yellow River; 'water evaporation model for water bodies' (covered water); no factor"
+  },
+  {
+   "record": "doi:10.1016/j.sciaf.2026.e03497",
+   "bibkey": "Ezzaza2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Hassan Addakhil Dam, FAO-56 evaporation savings at 5, 10, 15 % coverage"
+  },
+  {
+   "record": "doi:10.1002/er.6932",
+   "bibkey": "Costa2021",
+   "is_pv": true,
+   "factor": 0.167,
+   "basis": "total_water_surface",
+   "phi": null,
+   "origin": "unstated (screening reports reservoir-level reduction)",
+   "evidence": "Screening: 16.7 % reservoir evaporation reduction; SAM techno-economic FSPV for SFIP"
+  },
+  {
+   "record": "doi:10.1016/j.ijhydene.2026.155100",
+   "bibkey": "Gagliardi2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.5,
+   "origin": "unstated",
+   "evidence": "FPV reduces evaporation 'through surface shading'; scenarios varying coverage, screening phi=0.5"
+  },
+  {
+   "record": "doi:10.1038/s41598-026-54671-1",
+   "bibkey": "Trmkc2026",
+   "is_pv": true,
+   "factor": 0.58,
+   "basis": "total_water_surface",
+   "phi": 0.8,
+   "origin": "computed result of simulation framework",
+   "evidence": "Reservoir open-water evaporation 513,268 m3/yr reduced by ~58 % at 80 % coverage (screening)"
+  },
+  {
+   "record": "doi:10.51583/ijltemas.2025.1408000171",
+   "bibkey": "Rao2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Maudaha Dam FSPV feasibility; evaporation savings as co-benefit"
+  },
+  {
+   "record": "doi:10.56286/fgq28n84",
+   "bibkey": "Hasan2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Al-Adhaim Dam, DEM-based FPV footprint and 'evaporation reduction modeling'; no factor"
+  },
+  {
+   "record": "doi:10.1016/j.jenvman.2021.112989",
+   "bibkey": "Campos2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Sobradinho FPV 50-1000 MW scenarios; evaporation losses by covered area (screening)"
+  },
+  {
+   "record": "doi:10.53894/ijirss.v4i2.66",
+   "bibkey": "Zareef2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Naghlo dam FPV; generic evaporation saving"
+  },
+  {
+   "record": "doi:10.1038/s41598-025-28749-1",
+   "bibkey": "Ghiasi2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.005,
+   "origin": "unstated",
+   "evidence": "117 Iranian reservoirs, 0.5 % coverage prevents 4.2 million m3/yr; evaporation modelling"
+  },
+  {
+   "record": "doi:10.1007/s00542-024-05639-6",
+   "bibkey": "Bhattacharya2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": 0.05,
+   "origin": "unstated",
+   "evidence": "4.8 MW FSPV microgrid using 5 % of waterbody area"
+  },
+  {
+   "record": "doi:10.1680/jsmic.21.00002a",
+   "bibkey": "Yashas2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Bengaluru lakes FSPV feasibility; evaporation savings generic"
+  },
+  {
+   "record": "doi:10.1109/stpec52385.2021.9718627",
+   "bibkey": "Mamatha2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "5 MWp FSPV Srisailam (PVsyst); evaporation likely area-based"
+  },
+  {
+   "record": "doi:10.1109/iccpct.2017.8074182",
+   "bibkey": "Mittal2017b",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "1 MW FPV at Kota barrage / Kishore Sagar; water saved computed from area"
+  },
+  {
+   "record": "doi:10.1155/2021/6674091",
+   "bibkey": "Elshafei2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Massive FPV over Lake Nasser; evaporation reduction estimated, abstract truncated"
+  },
+  {
+   "record": "doi:10.1109/icscge53744.2021.9654287",
+   "bibkey": "Sapthanakorn2021",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "rule of thumb (Shuttleworth evaporation x FPV area)",
+   "evidence": "Evaporation reduction via Shuttleworth 1993 algorithm on 12 EGAT reservoirs; screening: evaporation times FPV area"
+  },
+  {
+   "record": "doi:10.5020/23180730.2017.v38.2.7418",
+   "bibkey": "Porto2017",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "PVsyst feasibility Castanhao; evaporation avoidance generic"
+  },
+  {
+   "record": "doi:10.46460/ijiea.1647566",
+   "bibkey": "Kurt2025",
+   "is_pv": true,
+   "factor": 1,
+   "basis": "under_cover_area",
+   "phi": 0.1,
+   "origin": "rule of thumb (Penman/Linacre/ANN evaporation x covered area)",
+   "evidence": "Keban Dam; evaporation prevented on covered part; screening: times 10 % covered area"
+  },
+  {
+   "record": "doi:10.1016/j.clet.2025.100952",
+   "bibkey": "Mouhaya2025a",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Four Sebou dams, 5, 10, 15 % coverage; up to 11.93 million m3/yr saved at 15 %"
+  },
+  {
+   "record": "doi:10.1016/j.esd.2021.12.007",
+   "bibkey": "Agrawal2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; Rajghat Dam FSPV with area-proportional water conservation"
+  },
+  {
+   "record": "tit:estimativadopotencialdeimplantaodesistemasfotovoltaicosflutu",
+   "bibkey": "Sousa2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; thesis, probably area-proportional savings"
+  },
+  {
+   "record": "doi:10.6008/cbpc2179-6858.2019.005.0018",
+   "bibkey": "Oliveira2019",
+   "is_pv": false,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "earlier literature (techniques 'sugeridas na literatura')",
+   "evidence": "Sao Goncalo reservoir simulations with four evaporation-reduction techniques using literature reduction rates; values not in abstract"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2020.12.005",
+   "bibkey": "Fereshtehpour2020",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated (framework after literature review)",
+   "evidence": "Five Iranian dam reservoirs; FSPV performance incl. evaporation reduction; no factor"
+  },
+  {
+   "record": "doi:10.22067/jwsd.v8i2.89779",
+   "bibkey": "Anon2021",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Smartphone software (NASA POWER) estimating evaporation reduction from PV panels; simple assumptions, no value in abstract"
+  },
+  {
+   "record": "doi:10.22092/idser.2021.353313.1454",
+   "bibkey": "Anon2021a",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Nowruzlu diversion dam; evaporation reduction by solar panels with economic analysis; no factor"
+  },
+  {
+   "record": "doi:10.2139/ssrn.6418308",
+   "bibkey": "AbdElhamid2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated (likely authors' earlier Lake Nasser study)",
+   "evidence": "Lake Nasser EIA; reduction 'caused by photovoltaic system's coverage'; no factor"
+  },
+  {
+   "record": "doi:10.1016/j.renene.2022.12.058",
+   "bibkey": "Kulat2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "No abstract; Turkey FPV potential with generic evaporation saving"
+  },
+  {
+   "record": "doi:10.7240/jeps.1261370",
+   "bibkey": "SENLI2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV review and Turkish dam potential; generic evaporation benefit"
+  },
+  {
+   "record": "doi:10.25130/tjes.32.1.24",
+   "bibkey": "Shammary2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Haditha dam FPV feasibility; evaporation saving from generic assumptions"
+  },
+  {
+   "record": "doi:10.1016/j.ecmx.2026.101886",
+   "bibkey": "Qamar2026",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "PVsyst FPV vs LBPV at four Pakistani reservoirs; hydrological assessment, no factor"
+  },
+  {
+   "record": "doi:10.1016/j.nexus.2025.100570",
+   "bibkey": "Stunjek2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Stochastic FPV-PSH optimisation; evaporation loss linked to FPV area"
+  },
+  {
+   "record": "doi:10.55670/fpll.futech.4.4.18",
+   "bibkey": "Kassem2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Near East University Lake, coverage 45, 60, 75, 90 %; evaporation not measured, no factor"
+  },
+  {
+   "record": "doi:10.1109/ciem67454.2025.11284609",
+   "bibkey": "Jaradat2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV on APC process water reservoirs; evaporation impact estimated, abstract truncated"
+  },
+  {
+   "record": "doi:10.2118/229141-ms",
+   "bibkey": "Deviprasad2025",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "BPCL Kochi refinery FSPV case; evaporation benefit not measured"
+  },
+  {
+   "record": "doi:10.1016/j.cles.2024.100140",
+   "bibkey": "Anusuya2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV vs ground PV power; evaporation reduction only asserted"
+  },
+  {
+   "record": "doi:10.3389/fenrg.2024.1404777",
+   "bibkey": "Mumtaz2024",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "2.5 MW FPV across climatic zones; water saving likely assumed factor"
+  },
+  {
+   "record": "doi:10.1016/j.egyr.2023.09.073",
+   "bibkey": "Alhassan2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated (assumed rate)",
+   "evidence": "420 MWp FPV on Akosombo, panels cover 2,460,457 m2; saves 73,327 m3 water; screening: from assumed rate"
+  },
+  {
+   "record": "doi:10.1016/j.heliyon.2023.e16785",
+   "bibkey": "Faruqui2023",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "FPV potential Bangladesh; evaporation reduction generic assumption"
+  },
+  {
+   "record": "doi:10.1016/j.egyr.2022.07.177",
+   "bibkey": "Ghasempour2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated (assumed factor)",
+   "evidence": "Hybrid FSPV-hydro Karun-3; evaporation reduction from assumed factor, value not in abstract"
+  },
+  {
+   "record": "doi:10.1109/powerafrica53997.2022.9905288",
+   "bibkey": "Gatesi2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Ntaruka reservoir FSPV feasibility; evaporation benefit not measured"
+  },
+  {
+   "record": "doi:10.1155/2022/6964984",
+   "bibkey": "Getie2022",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "GERD FPV potential; water saving at most estimated"
+  },
+  {
+   "record": "doi:10.1016/j.seta.2020.100799",
+   "bibkey": "Ates2020",
+   "is_pv": true,
+   "factor": null,
+   "basis": "under_cover_area",
+   "phi": null,
+   "origin": "unstated (assumed rate)",
+   "evidence": "Demirkopru Dam remote sensing FPV potential; evaporation prevented from assumed rate"
+  },
+  {
+   "record": "doi:10.1016/j.solener.2018.08.088",
+   "bibkey": "Perez2018",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "128 US hydropower reservoirs; evaporation reduction simulated simply, compared with evaporation engines"
+  },
+  {
+   "record": "doi:10.1016/j.matpr.2020.06.017",
+   "bibkey": "Sairam2020",
+   "is_pv": true,
+   "factor": null,
+   "basis": "unclear",
+   "phi": null,
+   "origin": "unstated",
+   "evidence": "Canal-top solar concept; evaporation reduction asserted, not measured"
+  }
+ ],
+ "resumo": "I classified all 127 records from D:\\DOUTORADO\\Artigos produzidos\\08_MODELAGEM_TANQUE_MAISSER\\ARTIGO_3_REVISAO_COBERTURAS\\dados_S_phi\\fatores_supostos_entrada.md. Most abstracts are cut off at about 1000 characters, and 15 records have no abstract at all. The large majority (about 108) give no reduction number in the screening notes or the abstract, so their factor is null.\n\nOnly 14 records have a number:\n- **Stated assumption (1):** Aznaveh2026 uses 0.8 under the panels (\"80% FPV efficiency\"), with no source given.\n- **Back-calculated (1):** AbdElhamid2021 gives 0.70 under the cover. The abstract's savings divided by the 12.0e9 m3 lake evaporation give 8.4/12 at 100 % cover and 2.1/12 at 25 %.\n- **Implicit full suppression (8):** factor 1.0 under the cover, because savings are open-water evaporation times the covered or exposed area. These are Santos2022, Hussain2024, Prabawanti2026, Mittal2017, Mouhaya2025, Azami2017, Sapthanakorn2021 and Kurt2025. I inferred the 1.0 from the method; none of them states the number, so treat these as derived.\n- **Whole-surface results, not inputs (3):** Costa2021 0.167, Trmkc2026 0.58 at phi 0.8, and Kaab2025 about 0.45 at phi 0.6. These are what the studies computed, not factors they assumed.\n- **Unclear (1):** Abdelgaied2023 shows S=61.71 % in screening. I left its factor null because it is unclear whether this is an assumption or a result, and on which area.\n\nCoverage scenarios are listed in the evidence field. The phi field is filled only when a single value is stated (for example 0.003, 0.005, 0.023, 0.05, 0.1, 0.25, 0.3, 0.5, 1).\n\nSix records are not about PV: Chapman2024, Lozier1984, West2006, Alvarez2009a, Ayala2013 and Oliveira2019. Where a source is given, it is earlier literature (Oliveira2019, Solfrini2023, Seitz2026) or the authors' own earlier measurements (Alvarez2009a). Everywhere else the source is unstated.\n\nGetting actual factors for the null records needs the full texts."
+}

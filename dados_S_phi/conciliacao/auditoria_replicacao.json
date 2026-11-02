@@ -1,0 +1,520 @@
+{
+ "excluir": [
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 1,
+   "why": "Sub-period 1 (9-16 Aug) for B50. The whole-period average (row 10) already includes it. Keep row 10."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 2,
+   "why": "Sub-period 1 for B70, contained in the whole-period average (row 11)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 3,
+   "why": "Sub-period 1 for B90, contained in the whole-period average (row 12)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 4,
+   "why": "Sub-period 1 for G50, contained in the whole-period average (row 13)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 5,
+   "why": "Sub-period 1 for G70, contained in the whole-period average (row 14)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 6,
+   "why": "Sub-period 1 for G90, contained in the whole-period average (row 15)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 7,
+   "why": "Sub-period 1 for W50, contained in the whole-period average (row 16)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 8,
+   "why": "Sub-period 1 for W70, contained in the whole-period average (row 17)."
+  },
+  {
+   "study": "Albalasmeh2023_10-1016-j-jclepro-2023-13",
+   "row": 9,
+   "why": "Sub-period 1 for W90, contained in the whole-period average (row 18)."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 2,
+   "why": "Monthly part (Apr 2008) of the annual Apr 2008-Mar 2009 result (row 1). Same cover and reservoir. Keep the annual row."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 3,
+   "why": "Monthly part (May 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 4,
+   "why": "Monthly part (Jun 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 5,
+   "why": "Monthly part (Jul 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 6,
+   "why": "Monthly part (Aug 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 7,
+   "why": "Monthly part (Sep 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 8,
+   "why": "Monthly part (Oct 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 9,
+   "why": "Monthly part (Nov 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 10,
+   "why": "Monthly part (Dec 2008) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 11,
+   "why": "Monthly part (Jan 2009) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 12,
+   "why": "Monthly part (Feb 2009) of annual row 1."
+  },
+  {
+   "study": "Alvarez2010_10-5424-sjar-201008s2-1355",
+   "row": 13,
+   "why": "Monthly part (Mar 2009) of annual row 1."
+  },
+  {
+   "study": "Aminzadeh2018_10-5194-hess-22-4015-2018",
+   "row": 11,
+   "why": "Alternative model run (adds a linear bottom heat flux) of the same 10 m, black-disc, Majadas scenario as row 7. Same cover, phi, site and period. Keep the main-text Table 3 row 7."
+  },
+  {
+   "study": "Aminzadeh2018_10-5194-hess-22-4015-2018",
+   "row": 12,
+   "why": "Bottom-heat-flux variant of the white-disc 10 m scenario in row 8. Same condition, different model assumption."
+  },
+  {
+   "study": "D2026_10-1038-s41598-026-44712-0",
+   "row": 5,
+   "why": "Fig. 9c panel is identical to Fig. 9b: same open 6.8->4.8 and TCO S=1. This is a duplicate of row 3, not a separate 300 mm measurement. The real 300 mm run is row 13 (Fig. 8e)."
+  },
+  {
+   "study": "D2026_10-1038-s41598-026-44712-0",
+   "row": 6,
+   "why": "Duplicate of row 4. Fig. 9c repeats the Fig. 9b panel: PET 6.9->5.4, open 6.8->4.8, S 0.25."
+  },
+  {
+   "study": "Duan2026_10-1371-journal-pone-0343523",
+   "row": 1,
+   "why": "Spring 2024 part of the whole non-freezing period 2024 (row 4), which aggregates spring, summer and autumn. Keep the whole-period row 4."
+  },
+  {
+   "study": "Duan2026_10-1371-journal-pone-0343523",
+   "row": 2,
+   "why": "Summer 2024 part of whole-period row 4."
+  },
+  {
+   "study": "Duan2026_10-1371-journal-pone-0343523",
+   "row": 3,
+   "why": "Autumn 2024 part of whole-period row 4."
+  },
+  {
+   "study": "Duan2026_10-1371-journal-pone-0343523",
+   "row": 5,
+   "why": "Not a condition. The authors linearly extrapolated row 4 to 98% cover, holding S/phi constant, so it is derived from row 4. The extractor already flags it as 'exclude from the S-phi fit'."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 4,
+   "why": "A single month (Ordibehesht) picked from the same year-long polystyrene experiment summarised in annual row 1. Keep the annual rows 1-3."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 5,
+   "why": "Single month (Ordibehesht) of the PS+Al annual experiment (row 2)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 6,
+   "why": "Single month (Tir) of the polycarbonate annual experiment (row 3)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 7,
+   "why": "Single month (Tir) of the PS annual experiment (row 1)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 8,
+   "why": "Single month (Tir) of the PS+Al annual experiment (row 2)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 9,
+   "why": "Single month (Azar) of the PS annual experiment (row 1)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 10,
+   "why": "Single month (Azar) of the PS+Al annual experiment (row 2)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 11,
+   "why": "Single month (Azar) of the PC annual experiment (row 3)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 12,
+   "why": "Single month (Dey) of the PS annual experiment (row 1)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 13,
+   "why": "Single month (Dey) of the PS+Al annual experiment (row 2)."
+  },
+  {
+   "study": "E2018_10-22059-ijswr-2017-233481-667681",
+   "row": 14,
+   "why": "Single month (Dey) of the PC annual experiment (row 3)."
+  },
+  {
+   "study": "F2019_10-7867-1983-1501-2018v20n2p62-76",
+   "row": 2,
+   "why": "Spring sub-period of the same DYRESM full-period simulation (row 1). Keep row 1."
+  },
+  {
+   "study": "F2019_10-7867-1983-1501-2018v20n2p62-76",
+   "row": 3,
+   "why": "Summer sub-period of full-period row 1."
+  },
+  {
+   "study": "F2019_10-7867-1983-1501-2018v20n2p62-76",
+   "row": 4,
+   "why": "Autumn (Mar) sub-period of full-period row 1."
+  },
+  {
+   "study": "H2001_controle-de-evapora-o-por-plantas-",
+   "row": 2,
+   "why": "Oct 1998-Jun 1999 sub-period of the full-year Styrofoam experiment (row 1). Same pan and cover."
+  },
+  {
+   "study": "H2001_controle-de-evapora-o-por-plantas-",
+   "row": 3,
+   "why": "Jul-Oct 1999 sub-period of the full-year Styrofoam experiment (row 1)."
+  },
+  {
+   "study": "H2001_controle-de-evapora-o-por-plantas-",
+   "row": 4,
+   "why": "Jan-Jun sub-period of the whole Nymphaea experiment (row 6, Jan-Oct 1999). Its E values also depend on an uncertain month alignment. Keep row 6, following the same whole-period rule as the Styrofoam cover in this study."
+  },
+  {
+   "study": "H2001_controle-de-evapora-o-por-plantas-",
+   "row": 5,
+   "why": "Jul-Oct sub-period of the whole Nymphaea experiment (row 6). Month alignment is uncertain."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 1,
+   "why": "Same annual condition as row 2, given as an unweighted mean of monthly rates instead of a ratio of annual totals. Keep row 2: the ratio of totals matches the S = 1 - sum(Ec)/sum(Eo) definition used for the other annual rows (Duan, S2026 and others)."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 3,
+   "why": "July only. A part of annual row 2."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 4,
+   "why": "January only. A part of annual row 2."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 5,
+   "why": "Winter (DJF) part of annual row 2."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 6,
+   "why": "Spring (MAM) part of annual row 2."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 7,
+   "why": "Summer (JJA) part of annual row 2."
+  },
+  {
+   "study": "Huang2023_10-3390-w15213716",
+   "row": 8,
+   "why": "Autumn (SON) part of annual row 2."
+  },
+  {
+   "study": "Lehmann2019_10-1029-2018wr024489",
+   "row": 1,
+   "why": "Headline aggregate ('Ec/E0 = 0.3 for all experiments at maximum cover') over the sphere runs kept as rows 4-10, 18, 20 and 21."
+  },
+  {
+   "study": "Lehmann2019_10-1029-2018wr024489",
+   "row": 2,
+   "why": "Headline aggregate for the 0.20 m discs, summarising the big-disc runs kept as rows 22-24 (and 19)."
+  },
+  {
+   "study": "Lehmann2019_10-1029-2018wr024489",
+   "row": 3,
+   "why": "Overall value ('close to 80%') for the small 0.04 m discs. It is the mean of rows 25-27 (about 0.77)."
+  },
+  {
+   "study": "Lehmann2019_10-1029-2018wr024489",
+   "row": 17,
+   "why": "Phi 0.91 radiation-only replicates in Fig. 6a. The extractor notes these are probably the same runs as the Fig. 5a radiation row (row 4), with identical S 0.76. Duplicate."
+  },
+  {
+   "study": "Mady2021_10-1029-2020wr028753",
+   "row": 17,
+   "why": "Overall Sep 2019-May 2020 value for the spheres. It aggregates the per-season sphere rows 18-20, which are kept, matching the per-season rows kept for the disks."
+  },
+  {
+   "study": "Mady2021_10-1029-2020wr028753",
+   "row": 22,
+   "why": "Single-reservoir 91% black-disk reference for the 18-day late-summer 2019 window. Astronomical summer runs 21 Jun-20 Sep, so this window lies inside the Table 1 summer 2019 black-disk row (row 9). It is an overlapping re-analysis."
+  },
+  {
+   "study": "Mady2021_10-1029-2020wr028753",
+   "row": 24,
+   "why": "91% black-disk reference for spring 2020 (40 days, S 0.56). Same cover and period as Table 1 spring 2020 black disks (row 5: 41 days, S 0.57). Duplicate."
+  },
+  {
+   "study": "Mady2021_10-1029-2020wr028753",
+   "row": 25,
+   "why": "Black disks, summer 2018 and 2019 pooled. Aggregate of rows 7 and 9, which are kept."
+  },
+  {
+   "study": "Mady2021_10-1029-2020wr028753",
+   "row": 26,
+   "why": "White disks, summer 2018 and 2019 pooled. Aggregate of rows 8 and 10, which are kept."
+  },
+  {
+   "study": "Porto1986_utilizacao-de-materiais-flutua",
+   "row": 5,
+   "why": "'Stabilised period' re-analysis of the same pans as row 1 (a subset of the same year). The extractor notes it is not independent."
+  },
+  {
+   "study": "Porto1986_utilizacao-de-materiais-flutua",
+   "row": 6,
+   "why": "Stabilised re-analysis of row 2. Same pans."
+  },
+  {
+   "study": "Porto1986_utilizacao-de-materiais-flutua",
+   "row": 7,
+   "why": "Stabilised re-analysis (after month 4) of row 3. Same pans."
+  },
+  {
+   "study": "Porto1986_utilizacao-de-materiais-flutua",
+   "row": 8,
+   "why": "Stabilised re-analysis of row 4. Same pans, and the value is inconsistent within the paper (61% vs 68%)."
+  },
+  {
+   "study": "Rahman2024_10-1088-1755-1315-1303-1-0120",
+   "row": 1,
+   "why": "Rows 1-3 are one condition (30 caps, phi 0.58, same 31 days), split by reading time. Keep the single 12 pm row, the highest-flux window, which dominates the daily total. The 9 am window has very low flux (0.081 cm/h), so its S is the least robust."
+  },
+  {
+   "study": "Rahman2024_10-1088-1755-1315-1303-1-0120",
+   "row": 3,
+   "why": "3 pm reading of the same condition as row 2. Time-of-day partition, not an independent condition."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 3,
+   "why": "Single year (1390) of the single-layer 5-year total, row 1. Keep the 5-year rows 1-2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 4,
+   "why": "Single year (1391) of single-layer row 1."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 5,
+   "why": "Single year (1392) of single-layer row 1."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 6,
+   "why": "Single year (1393) of single-layer row 1."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 7,
+   "why": "Single year (1394) of single-layer row 1."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 8,
+   "why": "Single year (1390) of the double-layer 5-year total, row 2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 9,
+   "why": "Single year (1391) of double-layer row 2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 10,
+   "why": "Single year (1392) of double-layer row 2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 11,
+   "why": "Single year (1393) of double-layer row 2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 12,
+   "why": "Single year (1394) of double-layer row 2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 13,
+   "why": "The 30% single-layer scenario only scales area: E_c = 2183 - phi x 1681, using the full-cover per-area reduction behind row 1. S is exactly linear in phi and adds no independent S-phi information. Same treatment as Duan2026 row 5."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 14,
+   "why": "60% single-layer area scaling of row 1's per-area reduction (linear by construction)."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 15,
+   "why": "90% single-layer area scaling of row 1's per-area reduction (linear by construction)."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 16,
+   "why": "30% double-layer area scaling (E_c = 2183 - phi x 1812) of row 2's per-area reduction."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 17,
+   "why": "60% double-layer area scaling of row 2."
+  },
+  {
+   "study": "S2018_10-22059-ijswr-2018-236176-667709",
+   "row": 18,
+   "why": "90% double-layer area scaling of row 2."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 1,
+   "why": "Homogeneous balls over 13 months, S given as the unweighted mean of monthly rates. Its E values give 0.653, not 0.667. It also counts September twice (2023 and 2024). Keep instead the paper-defined annual statistical year (row 14, ratio of totals), which covers the same condition with no overlap."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 2,
+   "why": "Bottom-weighted balls, 13-month mean-of-monthly-rates version of the condition kept as row 15 (annual year, ratio of totals)."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 4,
+   "why": "Homogeneous balls, Apr-Sep 2024 subset. Contained in the annual row 14."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 5,
+   "why": "Bottom-weighted balls, Apr-Sep 2024 subset. Contained in the annual row 15."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 6,
+   "why": "Autumn seasonal part of homogeneous annual row 14."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 7,
+   "why": "Autumn seasonal part of bottom-weighted annual row 15."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 8,
+   "why": "Winter seasonal part of homogeneous annual row 14."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 9,
+   "why": "Winter seasonal part of bottom-weighted annual row 15."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 10,
+   "why": "Spring seasonal part of homogeneous annual row 14."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 11,
+   "why": "Spring seasonal part of bottom-weighted annual row 15."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 12,
+   "why": "Summer seasonal part of homogeneous annual row 14."
+  },
+  {
+   "study": "S2026_10-18307-2026-0545",
+   "row": 13,
+   "why": "Summer seasonal part of bottom-weighted annual row 15."
+  },
+  {
+   "study": "SA2019_10-22111-jhe-2019-4971",
+   "row": 2,
+   "why": "Same 50% glass-cover pond and same summer-2015 period as row 1. It reports only the text upper bound ('up to 40%', range 0.30-0.40), so the same value appears twice. Keep the digitised row 1."
+  },
+  {
+   "study": "Wang2023_10-3390-w15061047",
+   "row": 6,
+   "why": "Calm-hours-only (150 h, wind 0-0.2 m/s) re-analysis of the same evaporator test as row 1. This is a conditional sub-sample of the non-freezing period, like a 'dry days only' analysis."
+  },
+  {
+   "study": "Wang2023_10-3390-w15061047",
+   "row": 7,
+   "why": "Calm-hours sub-sample of the evaporator test in row 2."
+  },
+  {
+   "study": "Wang2023_10-3390-w15061047",
+   "row": 8,
+   "why": "Calm-hours sub-sample of the evaporator test in row 3."
+  },
+  {
+   "study": "Wang2023_10-3390-w15061047",
+   "row": 9,
+   "why": "Calm-hours sub-sample of the evaporator test in row 4."
+  },
+  {
+   "study": "Wang2023_10-3390-w15061047",
+   "row": 10,
+   "why": "Calm-hours sub-sample of the evaporator test in row 5."
+  }
+ ],
+ "notas": "How I chose what to keep: in each study I kept the most comprehensive non-overlapping set (the whole period, or one row per independent campaign) and dropped the sub-periods, monthly or seasonal parts, pooled re-aggregations, duplicate panels and conditional re-analyses. I applied the same rule within each study. Where two versions of the same annual S existed, I kept the one computed as a ratio of totals (1 - sum Ec / sum Eo) and dropped the unweighted mean of monthly rates (Huang2023, S2026).\n\nJudgement calls you may want to override:\n(1) H2001 Nymphaea: I kept the whole-experiment row 6. Rows 4-5 report different phi (21% vs 18%), so you could keep those two instead and drop row 6.\n(2) Rahman2024: rows 1-3 split one condition by time of day. I kept the 12 pm row. A better fix is one pooled row weighted by open-water evaporation (Eo): about 0.26, using 0.081, 0.39 and 0.24 cm/h.\n(3) S2018 rows 13-18 and Duan2026 row 5: I excluded them even though their phi differs, because they are linear area scalings of another row (S proportional to phi by construction), not separate measurements.\n(4) S2026: I kept the annual statistical year (rows 14-15) instead of the 13-month headline (rows 1-2). The hexagonal-float row 3 (Apr-Sep only) is kept as an independent cover.\n\nKept on purpose (all independent):\n- Albalasmeh rows 19-25: model runs for a different site (GhM).\n- Aminzadeh rows 9-10: 3 m depth scenario.\n- Duan rows 6-8: a different pond, and the non-overlapping 2025 months.\n- Ilgen: all rows (different lakes, phi and future periods). Rows 4-6 are threshold-derived points.\n- JC2023: campaigns 1 and 2 are non-overlapping.\n- Mady rows 1-16 (season x year campaigns), sphere rows 18-20, and partial-cover rows 21 and 23.\n- Cooley 1970: all periods are non-overlapping.\n- Wang rows 11-15: reservoir fence test. These are computed from still-water rates, so they are not fully independent of the dropped rows 6-10, but they come from a different site and phi.\n- Yadima2020: monthly rows only, with no aggregate available.\n\nNot excluded, but worth flagging:\n- B2026 rows 1-4 all have S/phi = 0.224 exactly (linear model construction), so together they carry one piece of information. Consider down-weighting them.\n- Cross-study overlaps fall outside this per-study task:\n  - Aminzadeh2018 lab rows 1-6 versus Lehmann2019 rows 22-24 (same ETH 0.20 m disc lab setup).\n  - Raksaksri2023 versus Benjaoran2023 (same ponds).\n  - JC2023 versus de2023 (same site, different periods).\n  - Assouline2011 equations versus the Assouline2010 data.\n  - Mady2021 has two text versions: the paper and the ETH thesis."
+}

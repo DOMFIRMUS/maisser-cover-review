@@ -1,0 +1,73 @@
+{
+ "doi:10.5281/zenodo.22844939": {
+  "dec": "context_only",
+  "manual": "same authors; data deposit of the SSRN study 10.2139/ssrn.7493445, counted once through that study"
+ },
+ "doi:10.2139/ssrn.7493445": {
+  "manual": "same authors (Firmino Cardoso et al.); preprint of the MAISSER-PE hexagonal-cover pan study"
+ },
+ "tit:evaporationsuppressionfromsmallreservoirsusingfloatingcovers": {
+  "dec": "duplicate",
+  "manual": "duplicate record of doi:10.3929/ethz-b-000480077 (same report; accents or source differ)"
+ },
+ "tit:evaporationcontrolusingriotintosfloatingmodulesonnorthparkes": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:evaporationcontrolusingriotintofloatingmodulesonnorthparkesm (same report; accents or source differ)"
+ },
+ "tit:pengaruhpenggunaanbolaplastikterhadapevaporasieffectofplasti": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:pengaruhpenggunaanbolaplastikterhadapevaporasi (same report; accents or source differ)"
+ },
+ "tit:studyofevaporationfromirrigationreservoirsanditsmitigationby": {
+  "dec": "duplicate",
+  "manual": "duplicate record of doi:10.31428/10317/1736 (same report; accents or source differ)"
+ },
+ "tit:utilizaodemateriaisflutuantesnocontroledaevaporaonotrpicosem": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:utilizacaodemateriaisflutuantesnocontroledaevaporacaonotropi (same report; accents or source differ)"
+ },
+ "doi:10.1051/bioconf/202621101012/pdf": {
+  "dec": "duplicate",
+  "manual": "duplicate record of doi:10.1051/bioconf/202621101012 (same report; accents or source differ)"
+ },
+ "tit:tecnicasdereducaodaevaporacaoemreservatoriosdeaguaaplicacaod": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:tcnicasdereduodaevaporaoemreservatriosdeguaaplicaodecobertur (same report; accents or source differ)"
+ },
+ "tit:reduccindelasprdidasporevaporacinenbalsasderiegomediantecobe": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:reducciondelasperdidasporevaporacionenbalsasderiegomediantec (same report; accents or source differ)"
+ },
+ "tit:eficienciadelascoberturasdesombreoparareduccindelasprdidaspo": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:eficienciadelascoberturasdesombreoparareducciondelasperdidas (same report; accents or source differ)"
+ },
+ "tit:controledeevaporacaoporplantasaquaticasninfeiaeisopor": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:controledeevaporaoporplantasaquticasninfiaeisopor (same report; accents or source differ)"
+ },
+ "tit:alternativasdecaptaopluvialereduonaevaporaoparaincrementoded": {
+  "dec": "duplicate",
+  "manual": "duplicate record of tit:alternativasdecaptacaopluvialereducaonaevaporacaoparaincreme (same report; accents or source differ)"
+ },
+ "tit:exploringclimatedrivenperformanceoffloatingphotovoltaicsyste": {
+  "dec": "duplicate",
+  "manual": "duplicate record of doi:10.1016/j.apenergy.2025.125556 (same report; accents or source differ)"
+ },
+ "doi:10.5194/egusphere-egu26-11025": {
+  "dec": "duplicate",
+  "manual": "duplicate record of doi:10.2139/ssrn.6845152 (same report; accents or source differ)"
+ },
+ "tit:specificgravityandsizeoffloatingballseffectiveinreducingevap": {
+  "dec": "duplicate",
+  "manual": "probable duplicate of tit:specificgravityandsizeoffloatingballsforefficientevaporation (same author, year and journal; title in another language); recheck with the full text"
+ },
+ "tit:submergeddepthandunitweightofpetbottlesfilledwithlaffloating": {
+  "dec": "duplicate",
+  "manual": "probable duplicate of tit:submergencedepthandunitweightoflaffilledfloatingpetbottlesaf (same author, year and journal; title in another language); recheck with the full text"
+ },
+ "tit:performanceofaconcretepolymerfloatingcoverinreducingevaporat": {
+  "dec": "duplicate",
+  "manual": "probable duplicate of tit:evaluatingtheperformanceofunoconcretefloatingcovertoreduceev (same author, year and journal; title in another language); recheck with the full text"
+ }
+}
