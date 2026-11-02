@@ -1,6 +1,6 @@
 # Evaporation suppression by partial floating covers (MAISSER-PE): review data and code, with the search log, screening decisions, extracted S-phi conditions, synthesis and meta-regression
 
-**DOI:** assigned by Zenodo at the first release (see CITATION.cff after the release).
+**DOI:** [10.5281/zenodo.23883461](https://doi.org/10.5281/zenodo.23883461)
 
 Data and code of the review *Why floating covers save less water than they cover: a critical review of
 the physics of evaporation from partially covered water surfaces, from gaps to reservoirs* (Cardoso et al.,
